@@ -20,1253 +20,1548 @@ innings:
         - 0.01
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 4.0
+            runs scored: 4.0
+            batter runs: 4.0
             team runs: 4.0
         - 0.02
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 6.0
+            runs scored: 2.0
+            batter runs: 6.0
             team runs: 6.0
         - 0.03
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 7.0
+            runs scored: 1.0
+            batter runs: 7.0
             team runs: 7.0
         - 0.04
             batter: Alyssa Healy
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 7.0
         - 0.05
             batter: Alyssa Healy
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 7.0
         - 0.06
             batter: Alyssa Healy
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 7.0
         - 1.01
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 8.0
+            runs scored: 1.0
+            batter runs: 8.0
             team runs: 8.0
         - 1.02
             batter: Alyssa Healy
             bowler: Samantha Bates
-            runs scored:             batter runs: 4.0
+            runs scored: 4.0
+            batter runs: 4.0
             team runs: 12.0
         - 1.03
             batter: Alyssa Healy
             bowler: Samantha Bates
-            runs scored:             batter runs: 8.0
+            runs scored: 4.0
+            batter runs: 8.0
             team runs: 16.0
         - 1.04
             batter: Alyssa Healy
             bowler: Samantha Bates
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 17.0
         - 1.05
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 8.0
+            runs scored: 0.0
+            batter runs: 8.0
             team runs: 17.0
         - 1.06
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 18.0
         - 2.01
             batter: Ellyse Perry
             bowler: Rene Farrell
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 18.0
         - 2.02
             batter: Ellyse Perry
             bowler: Rene Farrell
-            runs scored:             batter runs: 13.0
+            runs scored: 4.0
+            batter runs: 13.0
             team runs: 22.0
         - 2.03
             batter: Ellyse Perry
             bowler: Rene Farrell
-            runs scored:             batter runs: 14.0
+            runs scored: 1.0
+            batter runs: 14.0
             team runs: 23.0
         - 2.04
             batter: Alyssa Healy
             bowler: Rene Farrell
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 23.0
         - 2.05
             batter: Alyssa Healy
             bowler: Rene Farrell
-            runs scored:             batter runs: 13.0
+            runs scored: 4.0
+            batter runs: 13.0
             team runs: 27.0
         - 2.06
             batter: Alyssa Healy
             bowler: Rene Farrell
-            runs scored:             batter runs: 13.0
+            runs scored: 0.0
+            batter runs: 13.0
             team runs: 27.0
         - 3.01
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 14.0
+            runs scored: 0.0
+            batter runs: 14.0
             team runs: 27.0
         - 3.02
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 14.0
+            runs scored: 0.0
+            batter runs: 14.0
             team runs: 27.0
         - 3.03
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 15.0
+            runs scored: 1.0
+            batter runs: 15.0
             team runs: 28.0
         - 3.04
             batter: Alyssa Healy
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 13.0
+            runs scored: 0.0
+            batter runs: 13.0
             team runs: 28.0
         - 3.05
             batter: Alyssa Healy
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 13.0
+            runs scored: 0.0
+            batter runs: 13.0
             team runs: 28.0
         - 3.06
             batter: Alyssa Healy
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 17.0
+            runs scored: 4.0
+            batter runs: 17.0
             team runs: 32.0
         - 4.01
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 16.0
+            runs scored: 1.0
+            batter runs: 16.0
             team runs: 33.0
         - 4.02
             batter: Alyssa Healy
             bowler: Samantha Bates
-            runs scored:             batter runs: 18.0
+            runs scored: 1.0
+            batter runs: 18.0
             team runs: 34.0
         - 4.03
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 20.0
+            runs scored: 4.0
+            batter runs: 20.0
             team runs: 38.0
         - 4.04
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 21.0
+            runs scored: 1.0
+            batter runs: 21.0
             team runs: 39.0
         - 4.05
             batter: Alyssa Healy
             bowler: Samantha Bates
-            runs scored:             batter runs: 19.0
+            runs scored: 1.0
+            batter runs: 19.0
             team runs: 40.0
         - 4.06
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 22.0
+            runs scored: 1.0
+            batter runs: 22.0
             team runs: 41.0
         - 5.01
             batter: Ellyse Perry
             bowler: Rene Farrell
-            runs scored:             batter runs: 23.0
+            runs scored: 1.0
+            batter runs: 23.0
             team runs: 42.0
         - 5.02
             batter: Alyssa Healy
             bowler: Rene Farrell
-            runs scored:             batter runs: 19.0
+            runs scored: 0.0
+            batter runs: 19.0
             team runs: 42.0
         - 5.03
             batter: Alyssa Healy
             bowler: Rene Farrell
-            runs scored:             batter runs: 19.0
+            runs scored: 0.0
+            batter runs: 19.0
             team runs: 42.0
         - 5.04
             batter: Alyssa Healy
             bowler: Rene Farrell
-            runs scored:             batter runs: 19.0
+            runs scored: 0.0
+            batter runs: 19.0
             team runs: 42.0
         - 5.05
             batter: Alyssa Healy
             bowler: Rene Farrell
-            runs scored:             batter runs: 20.0
+            runs scored: 1.0
+            batter runs: 20.0
             team runs: 43.0
         - 5.06
             batter: Ellyse Perry
             bowler: Rene Farrell
-            runs scored:             batter runs: 24.0
+            runs scored: 1.0
+            batter runs: 24.0
             team runs: 44.0
         - 6.01
             batter: Ellyse Perry
             bowler: Lisa Griffith
-            runs scored:             batter runs: 28.0
+            runs scored: 4.0
+            batter runs: 28.0
             team runs: 48.0
         - 6.02
             batter: Ellyse Perry
             bowler: Lisa Griffith
-            runs scored:             batter runs: 29.0
+            runs scored: 1.0
+            batter runs: 29.0
             team runs: 49.0
         - 6.03
             batter: Alyssa Healy
             bowler: Lisa Griffith
-            runs scored:             batter runs: 20.0
+            runs scored: 1.0
+            batter runs: 20.0
             team runs: 50.0
         - 6.04
             batter: Alyssa Healy
             bowler: Lisa Griffith
-            runs scored:             batter runs: 24.0
+            runs scored: 4.0
+            batter runs: 24.0
             team runs: 54.0
         - 6.05
             batter: Alyssa Healy
             bowler: Lisa Griffith
-            runs scored:             batter runs: 26.0
+            runs scored: 2.0
+            batter runs: 26.0
             team runs: 56.0
         - 6.06
             batter: Alyssa Healy
             bowler: Lisa Griffith
-            runs scored:             batter runs: 26.0
+            runs scored: 0.0
+            batter runs: 26.0
             team runs: 56.0
         - 6.07
             batter: Alyssa Healy
             bowler: Lisa Griffith
-            runs scored:             batter runs: 32.0
+            runs scored: 6.0
+            batter runs: 32.0
             team runs: 62.0
         - 7.01
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 33.0
+            runs scored: 4.0
+            batter runs: 33.0
             team runs: 66.0
         - 7.02
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 34.0
+            runs scored: 1.0
+            batter runs: 34.0
             team runs: 67.0
         - 7.03
             batter: Alyssa Healy
             bowler: Nida Dar
-            runs scored:             batter runs: 33.0
+            runs scored: 1.0
+            batter runs: 33.0
             team runs: 68.0
         - 7.04
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 35.0
+            runs scored: 1.0
+            batter runs: 35.0
             team runs: 69.0
         - 7.05
             batter: Alyssa Healy
             bowler: Nida Dar
-            runs scored:             batter runs: 33.0
+            runs scored: 0.0
+            batter runs: 33.0
             team runs: 69.0
         - 7.06
             batter: Alyssa Healy
             bowler: Nida Dar
-            runs scored:             batter runs: 33.0
+            runs scored: 0.0
+            batter runs: 33.0
             team runs: 69.0
         - 8.01
             batter: Ellyse Perry
             bowler: Hannah Darlington
-            runs scored:             batter runs: 36.0
+            runs scored: 1.0
+            batter runs: 36.0
             team runs: 70.0
         - 8.02
             batter: Alyssa Healy
             bowler: Hannah Darlington
-            runs scored:             batter runs: 33.0
+            runs scored: 0.0
+            batter runs: 33.0
             team runs: 70.0
         - 8.03
             batter: Alyssa Healy
             bowler: Hannah Darlington
-            runs scored:             batter runs: 33.0
+            runs scored: 0.0
+            batter runs: 33.0
             team runs: 70.0
         - 8.04
             batter: Alyssa Healy
             bowler: Hannah Darlington
-            runs scored:             batter runs: 35.0
+            runs scored: 2.0
+            batter runs: 35.0
             team runs: 72.0
         - 8.05
             batter: Alyssa Healy
             bowler: Hannah Darlington
-            runs scored:             batter runs: 36.0
+            runs scored: 1.0
+            batter runs: 36.0
             team runs: 73.0
         - 8.06
             batter: Ellyse Perry
             bowler: Hannah Darlington
-            runs scored:             batter runs: 40.0
+            runs scored: 4.0
+            batter runs: 40.0
             team runs: 77.0
         - 9.01
             batter: Alyssa Healy
             bowler: Nida Dar
-            runs scored:             batter runs: 42.0
+            runs scored: 6.0
+            batter runs: 42.0
             team runs: 83.0
         - 9.02
             batter: Alyssa Healy
             bowler: Nida Dar
-            runs scored:             batter runs: 42.0
+            runs scored: 0.0
+            batter runs: 42.0
             team runs: 83.0
         - 9.03
             batter: Alyssa Healy
             bowler: Nida Dar
-            runs scored:             batter runs: 42.0
+            runs scored: 0.0
+            batter runs: 42.0
             team runs: 83.0
+            wicket:
+              kind: caught
+              player_out: Alyssa Healy
         - 9.04
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 44.0
+            runs scored: 4.0
+            batter runs: 44.0
             team runs: 87.0
         - 9.05
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 45.0
+            runs scored: 1.0
+            batter runs: 45.0
             team runs: 88.0
         - 9.06
             batter: Ashleigh Gardner
             bowler: Nida Dar
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 88.0
         - 10.01
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 45.0
+            runs scored: 0.0
+            batter runs: 45.0
             team runs: 88.0
         - 10.02
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 45.0
+            runs scored: 0.0
+            batter runs: 45.0
             team runs: 88.0
         - 10.03
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 46.0
+            runs scored: 1.0
+            batter runs: 46.0
             team runs: 89.0
         - 10.04
             batter: Ashleigh Gardner
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 90.0
         - 10.05
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 48.0
+            runs scored: 2.0
+            batter runs: 48.0
             team runs: 92.0
         - 10.06
             batter: Ellyse Perry
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 48.0
+            runs scored: 0.0
+            batter runs: 48.0
             team runs: 92.0
         - 11.01
             batter: Ashleigh Gardner
             bowler: Hannah Darlington
-            runs scored:             batter runs: 5.0
+            runs scored: 4.0
+            batter runs: 5.0
             team runs: 96.0
         - 11.02
             batter: Ashleigh Gardner
             bowler: Hannah Darlington
-            runs scored:             batter runs: 9.0
+            runs scored: 4.0
+            batter runs: 9.0
             team runs: 100.0
         - 11.03
             batter: Ashleigh Gardner
             bowler: Hannah Darlington
-            runs scored:             batter runs: 13.0
+            runs scored: 4.0
+            batter runs: 13.0
             team runs: 104.0
         - 11.04
             batter: Ashleigh Gardner
             bowler: Hannah Darlington
-            runs scored:             batter runs: 13.0
+            runs scored: 0.0
+            batter runs: 13.0
             team runs: 104.0
         - 11.05
             batter: Ashleigh Gardner
             bowler: Hannah Darlington
-            runs scored:             batter runs: 13.0
+            runs scored: 0.0
+            batter runs: 13.0
             team runs: 104.0
         - 11.06
             batter: Ashleigh Gardner
             bowler: Hannah Darlington
-            runs scored:             batter runs: 13.0
+            runs scored: 0.0
+            batter runs: 13.0
             team runs: 104.0
         - 12.01
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 48.0
+            runs scored: 0.0
+            batter runs: 48.0
             team runs: 104.0
         - 12.02
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 48.0
+            runs scored: 0.0
+            batter runs: 48.0
             team runs: 104.0
         - 12.03
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 48.0
+            runs scored: 0.0
+            batter runs: 48.0
             team runs: 104.0
         - 12.04
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 48.0
+            runs scored: 0.0
+            batter runs: 48.0
             team runs: 104.0
         - 12.05
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 49.0
+            runs scored: 1.0
+            batter runs: 49.0
             team runs: 105.0
         - 12.06
             batter: Ashleigh Gardner
             bowler: Nida Dar
-            runs scored:             batter runs: 17.0
+            runs scored: 4.0
+            batter runs: 17.0
             team runs: 109.0
         - 13.01
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 50.0
+            runs scored: 1.0
+            batter runs: 50.0
             team runs: 110.0
         - 13.02
             batter: Ashleigh Gardner
             bowler: Samantha Bates
-            runs scored:             batter runs: 17.0
+            runs scored: 0.0
+            batter runs: 17.0
             team runs: 110.0
         - 13.03
             batter: Ashleigh Gardner
             bowler: Samantha Bates
-            runs scored:             batter runs: 20.0
+            runs scored: 3.0
+            batter runs: 20.0
             team runs: 113.0
         - 13.04
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 54.0
+            runs scored: 4.0
+            batter runs: 54.0
             team runs: 117.0
         - 13.05
             batter: Ellyse Perry
             bowler: Samantha Bates
-            runs scored:             batter runs: 55.0
+            runs scored: 1.0
+            batter runs: 55.0
             team runs: 118.0
         - 13.06
             batter: Ashleigh Gardner
             bowler: Samantha Bates
-            runs scored:             batter runs: 21.0
+            runs scored: 1.0
+            batter runs: 21.0
             team runs: 119.0
         - 14.01
             batter: Ashleigh Gardner
             bowler: Hannah Darlington
-            runs scored:             batter runs: 21.0
+            runs scored: 0.0
+            batter runs: 21.0
             team runs: 119.0
         - 14.02
             batter: Ashleigh Gardner
             bowler: Hannah Darlington
-            runs scored:             batter runs: 22.0
+            runs scored: 1.0
+            batter runs: 22.0
             team runs: 120.0
         - 14.03
             batter: Ellyse Perry
             bowler: Hannah Darlington
-            runs scored:             batter runs: 55.0
+            runs scored: 0.0
+            batter runs: 55.0
             team runs: 120.0
         - 14.04
             batter: Ellyse Perry
             bowler: Hannah Darlington
-            runs scored:             batter runs: 59.0
+            runs scored: 4.0
+            batter runs: 59.0
             team runs: 124.0
         - 14.05
             batter: Ellyse Perry
             bowler: Hannah Darlington
-            runs scored:             batter runs: 63.0
+            runs scored: 4.0
+            batter runs: 63.0
             team runs: 128.0
         - 14.06
             batter: Ellyse Perry
             bowler: Hannah Darlington
-            runs scored:             batter runs: 67.0
+            runs scored: 4.0
+            batter runs: 67.0
             team runs: 132.0
         - 15.01
             batter: Ashleigh Gardner
             bowler: Nida Dar
-            runs scored:             batter runs: 28.0
+            runs scored: 6.0
+            batter runs: 28.0
             team runs: 138.0
         - 15.02
             batter: Ashleigh Gardner
             bowler: Nida Dar
-            runs scored:             batter runs: 28.0
+            runs scored: 0.0
+            batter runs: 28.0
             team runs: 138.0
+            wicket:
+              kind: caught
+              player_out: Ashleigh Gardner
         - 15.03
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 67.0
+            runs scored: 0.0
+            batter runs: 67.0
             team runs: 138.0
         - 15.04
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 71.0
+            runs scored: 4.0
+            batter runs: 71.0
             team runs: 142.0
         - 15.05
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 71.0
+            runs scored: 1.0
+            batter runs: 71.0
             team runs: 143.0
         - 15.06
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 77.0
+            runs scored: 6.0
+            batter runs: 77.0
             team runs: 149.0
         - 15.07
             batter: Ellyse Perry
             bowler: Nida Dar
-            runs scored:             batter runs: 81.0
+            runs scored: 4.0
+            batter runs: 81.0
             team runs: 153.0
         - 16.01
             batter: Erin Burns
             bowler: Rene Farrell
-            runs scored:             batter runs: 4.0
+            runs scored: 4.0
+            batter runs: 4.0
             team runs: 157.0
         - 16.02
             batter: Erin Burns
             bowler: Rene Farrell
-            runs scored:             batter runs: 8.0
+            runs scored: 4.0
+            batter runs: 8.0
             team runs: 161.0
         - 16.03
             batter: Erin Burns
             bowler: Rene Farrell
-            runs scored:             batter runs: 8.0
+            runs scored: 0.0
+            batter runs: 8.0
             team runs: 161.0
         - 16.04
             batter: Erin Burns
             bowler: Rene Farrell
-            runs scored:             batter runs: 8.0
+            runs scored: 0.0
+            batter runs: 8.0
             team runs: 161.0
+            wicket:
+              kind: run out
+              player_out: Erin Burns
         - 16.05
             batter: Marizanne Kapp
             bowler: Rene Farrell
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 161.0
         - 16.06
             batter: Marizanne Kapp
             bowler: Rene Farrell
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 161.0
         - 17.01
             batter: Erin Burns
             bowler: Samantha Bates
-            runs scored:             batter runs: 12.0
+            runs scored: 4.0
+            batter runs: 12.0
             team runs: 165.0
         - 17.02
             batter: Erin Burns
             bowler: Samantha Bates
-            runs scored:             batter runs: 13.0
+            runs scored: 1.0
+            batter runs: 13.0
             team runs: 166.0
         - 17.03
             batter: Marizanne Kapp
             bowler: Samantha Bates
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 166.0
         - 17.04
             batter: Marizanne Kapp
             bowler: Samantha Bates
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 167.0
         - 17.05
             batter: Erin Burns
             bowler: Samantha Bates
-            runs scored:             batter runs: 14.0
+            runs scored: 1.0
+            batter runs: 14.0
             team runs: 168.0
         - 17.06
             batter: Marizanne Kapp
             bowler: Samantha Bates
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 169.0
         - 18.01
             batter: Marizanne Kapp
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 6.0
+            runs scored: 4.0
+            batter runs: 6.0
             team runs: 173.0
         - 18.02
             batter: Marizanne Kapp
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 10.0
+            runs scored: 4.0
+            batter runs: 10.0
             team runs: 177.0
         - 18.03
             batter: Marizanne Kapp
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 10.0
+            runs scored: 0.0
+            batter runs: 10.0
             team runs: 177.0
         - 18.04
             batter: Marizanne Kapp
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 12.0
+            runs scored: 2.0
+            batter runs: 12.0
             team runs: 179.0
         - 18.05
             batter: Marizanne Kapp
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 16.0
+            runs scored: 4.0
+            batter runs: 16.0
             team runs: 183.0
         - 18.06
             batter: Marizanne Kapp
             bowler: Shabnim Ismail
-            runs scored:             batter runs: 16.0
+            runs scored: 0.0
+            batter runs: 16.0
             team runs: 183.0
         - 19.01
             batter: Erin Burns
             bowler: Rene Farrell
-            runs scored:             batter runs: 14.0
+            runs scored: 0.0
+            batter runs: 14.0
             team runs: 183.0
+            wicket:
+              kind: run out
+              player_out: Erin Burns
         - 19.02
             batter: Marizanne Kapp
             bowler: Rene Farrell
-            runs scored:             batter runs: 17.0
+            runs scored: 1.0
+            batter runs: 17.0
             team runs: 184.0
         - 19.03
             batter: Hayley Silver-holmes
             bowler: Rene Farrell
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 184.0
+            wicket:
+              kind: bowled
+              player_out: Hayley Silver-holmes
         - 19.04
             batter: Maddy Darke
             bowler: Rene Farrell
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 185.0
         - 19.05
             batter: Marizanne Kapp
             bowler: Rene Farrell
-            runs scored:             batter runs: 17.0
+            runs scored: 5.0
+            batter runs: 17.0
             team runs: 190.0
         - 19.06
             batter: Marizanne Kapp
             bowler: Rene Farrell
-            runs scored:             batter runs: 18.0
+            runs scored: 1.0
+            batter runs: 18.0
             team runs: 191.0
         - 19.07
             batter: Maddy Darke
             bowler: Rene Farrell
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 192.0
+            wicket:
+              kind: run out
+              player_out: Maddy Darke
  - second innings:
       team: Sydney Thunder Women
       deliveries: 
         - 0.01
             batter: Rachel Priest
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 0.0
         - 0.02
             batter: Rachel Priest
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 0.0
         - 0.03
             batter: Rachel Priest
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 1.0
         - 0.04
             batter: Naomi Stalenberg
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 2.0
+            runs scored: 2.0
+            batter runs: 2.0
             team runs: 3.0
         - 0.05
             batter: Naomi Stalenberg
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 4.0
         - 0.06
             batter: Rachel Priest
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 4.0
         - 1.01
             batter: Naomi Stalenberg
             bowler: Ellyse Perry
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 4.0
         - 1.02
             batter: Naomi Stalenberg
             bowler: Ellyse Perry
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 4.0
         - 1.03
             batter: Naomi Stalenberg
             bowler: Ellyse Perry
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 4.0
         - 1.04
             batter: Naomi Stalenberg
             bowler: Ellyse Perry
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 4.0
+            wicket:
+              kind: leg before wicket
+              player_out: Naomi Stalenberg
         - 1.05
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 5.0
         - 1.06
             batter: Rachel Priest
             bowler: Ellyse Perry
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 5.0
+            wicket:
+              kind: caught
+              player_out: Rachel Priest
         - 2.01
             batter: Rachael Haynes
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 5.0
         - 2.02
             batter: Rachael Haynes
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 5.0
         - 2.03
             batter: Rachael Haynes
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 5.0
         - 2.04
             batter: Rachael Haynes
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 5.0
+            runs scored: 4.0
+            batter runs: 5.0
             team runs: 9.0
         - 2.05
             batter: Rachael Haynes
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 5.0
+            runs scored: 0.0
+            batter runs: 5.0
             team runs: 9.0
         - 2.06
             batter: Rachael Haynes
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 5.0
+            runs scored: 0.0
+            batter runs: 5.0
             team runs: 9.0
         - 3.01
             batter: Alex Blackwell
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 4.0
+            runs scored: 4.0
+            batter runs: 4.0
             team runs: 13.0
         - 3.02
             batter: Alex Blackwell
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 13.0
         - 3.03
             batter: Alex Blackwell
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 5.0
+            runs scored: 1.0
+            batter runs: 5.0
             team runs: 14.0
         - 3.04
             batter: Rachael Haynes
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 9.0
+            runs scored: 4.0
+            batter runs: 9.0
             team runs: 18.0
         - 3.05
             batter: Rachael Haynes
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 18.0
         - 3.06
             batter: Rachael Haynes
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 18.0
         - 4.01
             batter: Alex Blackwell
             bowler: Ellyse Perry
-            runs scored:             batter runs: 6.0
+            runs scored: 1.0
+            batter runs: 6.0
             team runs: 19.0
         - 4.02
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 19.0
         - 4.03
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 19.0
         - 4.04
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 20.0
         - 4.05
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 21.0
         - 4.06
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 21.0
         - 4.07
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 22.0
         - 4.08
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 22.0
         - 4.09
             batter: Rachael Haynes
             bowler: Ellyse Perry
-            runs scored:             batter runs: 11.0
+            runs scored: 2.0
+            batter runs: 11.0
             team runs: 24.0
         - 5.01
             batter: Alex Blackwell
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 7.0
+            runs scored: 1.0
+            batter runs: 7.0
             team runs: 25.0
         - 5.02
             batter: Rachael Haynes
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 11.0
+            runs scored: 0.0
+            batter runs: 11.0
             team runs: 25.0
+            wicket:
+              kind: caught
+              player_out: Rachael Haynes
         - 5.03
             batter: Alex Blackwell
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 7.0
+            runs scored: 0.0
+            batter runs: 7.0
             team runs: 25.0
         - 5.04
             batter: Alex Blackwell
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 8.0
+            runs scored: 1.0
+            batter runs: 8.0
             team runs: 26.0
         - 5.05
             batter: Phoebe Litchfield
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 26.0
         - 5.06
             batter: Phoebe Litchfield
             bowler: Marizanne Kapp
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 27.0
         - 6.01
             batter: Phoebe Litchfield
             bowler: Sarah Aley
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 27.0
         - 6.02
             batter: Phoebe Litchfield
             bowler: Sarah Aley
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 28.0
         - 6.03
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 14.0
+            runs scored: 6.0
+            batter runs: 14.0
             team runs: 34.0
         - 6.04
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 15.0
+            runs scored: 1.0
+            batter runs: 15.0
             team runs: 35.0
         - 6.05
             batter: Phoebe Litchfield
             bowler: Sarah Aley
-            runs scored:             batter runs: 3.0
+            runs scored: 1.0
+            batter runs: 3.0
             team runs: 36.0
         - 6.06
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 15.0
+            runs scored: 0.0
+            batter runs: 15.0
             team runs: 36.0
         - 7.01
             batter: Phoebe Litchfield
             bowler: Erin Burns
-            runs scored:             batter runs: 4.0
+            runs scored: 1.0
+            batter runs: 4.0
             team runs: 37.0
         - 7.02
             batter: Alex Blackwell
             bowler: Erin Burns
-            runs scored:             batter runs: 17.0
+            runs scored: 2.0
+            batter runs: 17.0
             team runs: 39.0
         - 7.03
             batter: Alex Blackwell
             bowler: Erin Burns
-            runs scored:             batter runs: 17.0
+            runs scored: 0.0
+            batter runs: 17.0
             team runs: 39.0
         - 7.04
             batter: Alex Blackwell
             bowler: Erin Burns
-            runs scored:             batter runs: 17.0
+            runs scored: 0.0
+            batter runs: 17.0
             team runs: 39.0
         - 7.05
             batter: Alex Blackwell
             bowler: Erin Burns
-            runs scored:             batter runs: 18.0
+            runs scored: 1.0
+            batter runs: 18.0
             team runs: 40.0
         - 7.06
             batter: Phoebe Litchfield
             bowler: Erin Burns
-            runs scored:             batter runs: 5.0
+            runs scored: 1.0
+            batter runs: 5.0
             team runs: 41.0
         - 8.01
             batter: Phoebe Litchfield
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 6.0
+            runs scored: 1.0
+            batter runs: 6.0
             team runs: 42.0
         - 8.02
             batter: Alex Blackwell
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 18.0
+            runs scored: 0.0
+            batter runs: 18.0
             team runs: 42.0
         - 8.03
             batter: Alex Blackwell
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 22.0
+            runs scored: 4.0
+            batter runs: 22.0
             team runs: 46.0
         - 8.04
             batter: Alex Blackwell
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 23.0
+            runs scored: 1.0
+            batter runs: 23.0
             team runs: 47.0
         - 8.05
             batter: Phoebe Litchfield
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 10.0
+            runs scored: 4.0
+            batter runs: 10.0
             team runs: 51.0
         - 8.06
             batter: Phoebe Litchfield
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 14.0
+            runs scored: 4.0
+            batter runs: 14.0
             team runs: 55.0
         - 9.01
             batter: Alex Blackwell
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 24.0
+            runs scored: 1.0
+            batter runs: 24.0
             team runs: 56.0
         - 9.02
             batter: Phoebe Litchfield
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 14.0
+            runs scored: 0.0
+            batter runs: 14.0
             team runs: 56.0
         - 9.03
             batter: Phoebe Litchfield
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 18.0
+            runs scored: 4.0
+            batter runs: 18.0
             team runs: 60.0
         - 9.04
             batter: Phoebe Litchfield
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 18.0
+            runs scored: 0.0
+            batter runs: 18.0
             team runs: 60.0
         - 9.05
             batter: Phoebe Litchfield
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 19.0
+            runs scored: 1.0
+            batter runs: 19.0
             team runs: 61.0
         - 9.06
             batter: Alex Blackwell
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 25.0
+            runs scored: 1.0
+            batter runs: 25.0
             team runs: 62.0
         - 10.01
             batter: Alex Blackwell
             bowler: Ellyse Perry
-            runs scored:             batter runs: 25.0
+            runs scored: 0.0
+            batter runs: 25.0
             team runs: 62.0
         - 10.02
             batter: Alex Blackwell
             bowler: Ellyse Perry
-            runs scored:             batter runs: 25.0
+            runs scored: 0.0
+            batter runs: 25.0
             team runs: 62.0
         - 10.03
             batter: Alex Blackwell
             bowler: Ellyse Perry
-            runs scored:             batter runs: 29.0
+            runs scored: 4.0
+            batter runs: 29.0
             team runs: 66.0
         - 10.04
             batter: Alex Blackwell
             bowler: Ellyse Perry
-            runs scored:             batter runs: 29.0
+            runs scored: 0.0
+            batter runs: 29.0
             team runs: 66.0
         - 10.05
             batter: Alex Blackwell
             bowler: Ellyse Perry
-            runs scored:             batter runs: 30.0
+            runs scored: 1.0
+            batter runs: 30.0
             team runs: 67.0
         - 10.06
             batter: Phoebe Litchfield
             bowler: Ellyse Perry
-            runs scored:             batter runs: 20.0
+            runs scored: 1.0
+            batter runs: 20.0
             team runs: 68.0
         - 11.01
             batter: Phoebe Litchfield
             bowler: Erin Burns
-            runs scored:             batter runs: 24.0
+            runs scored: 4.0
+            batter runs: 24.0
             team runs: 72.0
         - 11.02
             batter: Phoebe Litchfield
             bowler: Erin Burns
-            runs scored:             batter runs: 24.0
+            runs scored: 1.0
+            batter runs: 24.0
             team runs: 73.0
         - 11.03
             batter: Phoebe Litchfield
             bowler: Erin Burns
-            runs scored:             batter runs: 25.0
+            runs scored: 1.0
+            batter runs: 25.0
             team runs: 74.0
         - 11.04
             batter: Alex Blackwell
             bowler: Erin Burns
-            runs scored:             batter runs: 36.0
+            runs scored: 6.0
+            batter runs: 36.0
             team runs: 80.0
         - 11.05
             batter: Alex Blackwell
             bowler: Erin Burns
-            runs scored:             batter runs: 37.0
+            runs scored: 1.0
+            batter runs: 37.0
             team runs: 81.0
         - 11.06
             batter: Phoebe Litchfield
             bowler: Erin Burns
-            runs scored:             batter runs: 25.0
+            runs scored: 0.0
+            batter runs: 25.0
             team runs: 81.0
         - 11.07
             batter: Phoebe Litchfield
             bowler: Erin Burns
-            runs scored:             batter runs: 25.0
+            runs scored: 0.0
+            batter runs: 25.0
             team runs: 81.0
         - 12.01
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 37.0
+            runs scored: 0.0
+            batter runs: 37.0
             team runs: 81.0
         - 12.02
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 38.0
+            runs scored: 1.0
+            batter runs: 38.0
             team runs: 82.0
         - 12.03
             batter: Phoebe Litchfield
             bowler: Sarah Aley
-            runs scored:             batter runs: 26.0
+            runs scored: 1.0
+            batter runs: 26.0
             team runs: 83.0
         - 12.04
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 42.0
+            runs scored: 4.0
+            batter runs: 42.0
             team runs: 87.0
         - 12.05
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 43.0
+            runs scored: 1.0
+            batter runs: 43.0
             team runs: 88.0
         - 12.06
             batter: Phoebe Litchfield
             bowler: Sarah Aley
-            runs scored:             batter runs: 26.0
+            runs scored: 0.0
+            batter runs: 26.0
             team runs: 88.0
         - 13.01
             batter: Alex Blackwell
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 47.0
+            runs scored: 4.0
+            batter runs: 47.0
             team runs: 92.0
         - 13.02
             batter: Alex Blackwell
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 48.0
+            runs scored: 1.0
+            batter runs: 48.0
             team runs: 93.0
         - 13.03
             batter: Phoebe Litchfield
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 26.0
+            runs scored: 0.0
+            batter runs: 26.0
             team runs: 93.0
+            wicket:
+              kind: leg before wicket
+              player_out: Phoebe Litchfield
         - 13.04
             batter: Nida Dar
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 0.0
+            runs scored: 1.0
+            batter runs: 0.0
             team runs: 94.0
         - 13.05
             batter: Nida Dar
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 95.0
         - 13.06
             batter: Alex Blackwell
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 48.0
+            runs scored: 1.0
+            batter runs: 48.0
             team runs: 96.0
         - 13.07
             batter: Alex Blackwell
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 49.0
+            runs scored: 1.0
+            batter runs: 49.0
             team runs: 97.0
         - 13.08
             batter: Nida Dar
             bowler: Hayley Silver-holmes
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 98.0
         - 14.01
             batter: Nida Dar
             bowler: Stella Campbell
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 99.0
         - 14.02
             batter: Nida Dar
             bowler: Stella Campbell
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 99.0
         - 14.03
             batter: Nida Dar
             bowler: Stella Campbell
-            runs scored:             batter runs: 4.0
+            runs scored: 2.0
+            batter runs: 4.0
             team runs: 101.0
         - 14.04
             batter: Nida Dar
             bowler: Stella Campbell
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 101.0
         - 14.05
             batter: Nida Dar
             bowler: Stella Campbell
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 101.0
         - 14.06
             batter: Nida Dar
             bowler: Stella Campbell
-            runs scored:             batter runs: 4.0
+            runs scored: 1.0
+            batter runs: 4.0
             team runs: 102.0
         - 14.07
             batter: Nida Dar
             bowler: Stella Campbell
-            runs scored:             batter runs: 5.0
+            runs scored: 1.0
+            batter runs: 5.0
             team runs: 103.0
         - 14.08
             batter: Alex Blackwell
             bowler: Stella Campbell
-            runs scored:             batter runs: 50.0
+            runs scored: 1.0
+            batter runs: 50.0
             team runs: 104.0
         - 15.01
             batter: Alex Blackwell
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 54.0
+            runs scored: 4.0
+            batter runs: 54.0
             team runs: 108.0
         - 15.02
             batter: Alex Blackwell
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 55.0
+            runs scored: 1.0
+            batter runs: 55.0
             team runs: 109.0
         - 15.03
             batter: Nida Dar
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 7.0
+            runs scored: 2.0
+            batter runs: 7.0
             team runs: 111.0
         - 15.04
             batter: Nida Dar
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 7.0
+            runs scored: 0.0
+            batter runs: 7.0
             team runs: 111.0
         - 15.05
             batter: Nida Dar
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 9.0
+            runs scored: 2.0
+            batter runs: 9.0
             team runs: 113.0
         - 15.06
             batter: Nida Dar
             bowler: Ashleigh Gardner
-            runs scored:             batter runs: 10.0
+            runs scored: 1.0
+            batter runs: 10.0
             team runs: 114.0
         - 16.01
             batter: Nida Dar
             bowler: Sarah Aley
-            runs scored:             batter runs: 11.0
+            runs scored: 1.0
+            batter runs: 11.0
             team runs: 115.0
         - 16.02
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 56.0
+            runs scored: 1.0
+            batter runs: 56.0
             team runs: 116.0
         - 16.03
             batter: Nida Dar
             bowler: Sarah Aley
-            runs scored:             batter runs: 12.0
+            runs scored: 1.0
+            batter runs: 12.0
             team runs: 117.0
         - 16.04
             batter: Alex Blackwell
             bowler: Sarah Aley
-            runs scored:             batter runs: 56.0
+            runs scored: 0.0
+            batter runs: 56.0
             team runs: 117.0
+            wicket:
+              kind: caught
+              player_out: Alex Blackwell
         - 16.05
             batter: Nida Dar
             bowler: Sarah Aley
-            runs scored:             batter runs: 12.0
+            runs scored: 0.0
+            batter runs: 12.0
             team runs: 117.0
+            wicket:
+              kind: caught
+              player_out: Nida Dar
         - 16.06
             batter: Hannah Darlington
             bowler: Sarah Aley
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 117.0
         - 17.01
             batter: Rene Farrell
             bowler: Erin Burns
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 118.0
         - 17.02
             batter: Hannah Darlington
             bowler: Erin Burns
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 118.0
         - 17.03
             batter: Hannah Darlington
             bowler: Erin Burns
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 119.0
         - 17.04
             batter: Rene Farrell
             bowler: Erin Burns
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 120.0
         - 17.05
             batter: Rene Farrell
             bowler: Erin Burns
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 121.0
         - 17.06
             batter: Hannah Darlington
             bowler: Erin Burns
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 121.0
+            wicket:
+              kind: caught
+              player_out: Hannah Darlington
         - 17.07
             batter: Rene Farrell
             bowler: Erin Burns
-            runs scored:             batter runs: 6.0
+            runs scored: 4.0
+            batter runs: 6.0
             team runs: 125.0
         - 18.01
             batter: Lisa Griffith
             bowler: Sarah Aley
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 126.0
         - 18.02
             batter: Rene Farrell
             bowler: Sarah Aley
-            runs scored:             batter runs: 10.0
+            runs scored: 4.0
+            batter runs: 10.0
             team runs: 130.0
         - 18.03
             batter: Rene Farrell
             bowler: Sarah Aley
-            runs scored:             batter runs: 12.0
+            runs scored: 2.0
+            batter runs: 12.0
             team runs: 132.0
         - 18.04
             batter: Rene Farrell
             bowler: Sarah Aley
-            runs scored:             batter runs: 13.0
+            runs scored: 1.0
+            batter runs: 13.0
             team runs: 133.0
         - 18.05
             batter: Lisa Griffith
             bowler: Sarah Aley
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 134.0
         - 18.06
             batter: Rene Farrell
             bowler: Sarah Aley
-            runs scored:             batter runs: 13.0
+            runs scored: 0.0
+            batter runs: 13.0
             team runs: 134.0
+            wicket:
+              kind: stumped
+              player_out: Rene Farrell
         - 19.01
             batter: Lisa Griffith
             bowler: Lauren Smith
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 134.0
         - 19.02
             batter: Lisa Griffith
             bowler: Lauren Smith
-            runs scored:             batter runs: 3.0
+            runs scored: 1.0
+            batter runs: 3.0
             team runs: 135.0
         - 19.03
             batter: Shabnim Ismail
             bowler: Lauren Smith
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 136.0
+            wicket:
+              kind: run out
+              player_out: Shabnim Ismail
         - 19.04
             batter: Samantha Bates
             bowler: Lauren Smith
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 137.0

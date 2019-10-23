@@ -20,647 +20,797 @@ innings:
         - 0.01
             batter: Elyse Villani
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 0.0
         - 0.02
             batter: Elyse Villani
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 4.0
+            runs scored: 4.0
+            batter runs: 4.0
             team runs: 4.0
         - 0.03
             batter: Elyse Villani
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 4.0
+            runs scored: 1.0
+            batter runs: 4.0
             team runs: 5.0
         - 0.04
             batter: Elyse Villani
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 4.0
+            runs scored: 1.0
+            batter runs: 4.0
             team runs: 6.0
         - 0.05
             batter: Elyse Villani
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 8.0
+            runs scored: 4.0
+            batter runs: 8.0
             team runs: 10.0
         - 0.06
             batter: Elyse Villani
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 8.0
+            runs scored: 0.0
+            batter runs: 8.0
             team runs: 10.0
         - 0.07
             batter: Elyse Villani
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 8.0
+            runs scored: 0.0
+            batter runs: 8.0
             team runs: 10.0
+            wicket:
+              kind: caught
+              player_out: Elyse Villani
         - 0.08
             batter: Emma Inglis
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 10.0
         - 1.01
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 10.0
         - 1.02
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 10.0
         - 1.03
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 10.0
         - 1.04
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 10.0
         - 1.05
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 11.0
         - 1.06
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 0.0
+            runs scored: 1.0
+            batter runs: 0.0
             team runs: 12.0
         - 1.07
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 0.0
+            runs scored: 1.0
+            batter runs: 0.0
             team runs: 13.0
         - 1.08
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 13.0
         - 2.01
             batter: Emma Inglis
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 13.0
         - 2.02
             batter: Emma Inglis
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 13.0
         - 2.03
             batter: Emma Inglis
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 14.0
         - 2.04
             batter: Lizelle Lee
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 14.0
         - 2.05
             batter: Lizelle Lee
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 15.0
         - 2.06
             batter: Emma Inglis
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 19.0
         - 3.01
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 20.0
         - 3.02
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 20.0
         - 3.03
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 21.0
         - 3.04
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 21.0
         - 3.05
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 21.0
         - 3.06
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 21.0
         - 3.07
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 21.0
         - 4.01
             batter: Lizelle Lee
             bowler: Nicola Carey
-            runs scored:             batter runs: 10.0
+            runs scored: 4.0
+            batter runs: 10.0
             team runs: 25.0
         - 4.02
             batter: Lizelle Lee
             bowler: Nicola Carey
-            runs scored:             batter runs: 10.0
+            runs scored: 0.0
+            batter runs: 10.0
             team runs: 25.0
         - 4.03
             batter: Lizelle Lee
             bowler: Nicola Carey
-            runs scored:             batter runs: 11.0
+            runs scored: 1.0
+            batter runs: 11.0
             team runs: 26.0
         - 4.04
             batter: Emma Inglis
             bowler: Nicola Carey
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 26.0
         - 4.05
             batter: Emma Inglis
             bowler: Nicola Carey
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 26.0
         - 4.06
             batter: Emma Inglis
             bowler: Nicola Carey
-            runs scored:             batter runs: 4.0
+            runs scored: 2.0
+            batter runs: 4.0
             team runs: 28.0
         - 5.01
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 12.0
+            runs scored: 1.0
+            batter runs: 12.0
             team runs: 29.0
         - 5.02
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 29.0
         - 5.03
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 8.0
+            runs scored: 4.0
+            batter runs: 8.0
             team runs: 33.0
         - 5.04
             batter: Emma Inglis
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 8.0
+            runs scored: 1.0
+            batter runs: 8.0
             team runs: 34.0
         - 5.05
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 12.0
+            runs scored: 1.0
+            batter runs: 12.0
             team runs: 35.0
         - 5.06
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 12.0
+            runs scored: 1.0
+            batter runs: 12.0
             team runs: 36.0
         - 5.07
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 16.0
+            runs scored: 4.0
+            batter runs: 16.0
             team runs: 40.0
         - 5.08
             batter: Lizelle Lee
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 20.0
+            runs scored: 4.0
+            batter runs: 20.0
             team runs: 44.0
         - 6.01
             batter: Emma Inglis
             bowler: Maisy Gibson
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 45.0
         - 6.02
             batter: Lizelle Lee
             bowler: Maisy Gibson
-            runs scored:             batter runs: 24.0
+            runs scored: 4.0
+            batter runs: 24.0
             team runs: 49.0
         - 6.03
             batter: Lizelle Lee
             bowler: Maisy Gibson
-            runs scored:             batter runs: 25.0
+            runs scored: 1.0
+            batter runs: 25.0
             team runs: 50.0
         - 6.04
             batter: Emma Inglis
             bowler: Maisy Gibson
-            runs scored:             batter runs: 10.0
+            runs scored: 1.0
+            batter runs: 10.0
             team runs: 51.0
         - 6.05
             batter: Lizelle Lee
             bowler: Maisy Gibson
-            runs scored:             batter runs: 25.0
+            runs scored: 0.0
+            batter runs: 25.0
             team runs: 51.0
         - 6.06
             batter: Lizelle Lee
             bowler: Maisy Gibson
-            runs scored:             batter runs: 26.0
+            runs scored: 1.0
+            batter runs: 26.0
             team runs: 52.0
         - 7.01
             batter: Lizelle Lee
             bowler: Heather Knight
-            runs scored:             batter runs: 28.0
+            runs scored: 2.0
+            batter runs: 28.0
             team runs: 54.0
         - 7.02
             batter: Lizelle Lee
             bowler: Heather Knight
-            runs scored:             batter runs: 29.0
+            runs scored: 1.0
+            batter runs: 29.0
             team runs: 55.0
         - 7.03
             batter: Emma Inglis
             bowler: Heather Knight
-            runs scored:             batter runs: 10.0
+            runs scored: 0.0
+            batter runs: 10.0
             team runs: 55.0
         - 7.04
             batter: Emma Inglis
             bowler: Heather Knight
-            runs scored:             batter runs: 14.0
+            runs scored: 4.0
+            batter runs: 14.0
             team runs: 59.0
         - 7.05
             batter: Emma Inglis
             bowler: Heather Knight
-            runs scored:             batter runs: 15.0
+            runs scored: 1.0
+            batter runs: 15.0
             team runs: 60.0
         - 7.06
             batter: Lizelle Lee
             bowler: Heather Knight
-            runs scored:             batter runs: 29.0
+            runs scored: 0.0
+            batter runs: 29.0
             team runs: 60.0
         - 8.01
             batter: Emma Inglis
             bowler: Nicola Carey
-            runs scored:             batter runs: 16.0
+            runs scored: 1.0
+            batter runs: 16.0
             team runs: 61.0
         - 8.02
             batter: Lizelle Lee
             bowler: Nicola Carey
-            runs scored:             batter runs: 29.0
+            runs scored: 0.0
+            batter runs: 29.0
             team runs: 61.0
         - 8.03
             batter: Lizelle Lee
             bowler: Nicola Carey
-            runs scored:             batter runs: 29.0
+            runs scored: 0.0
+            batter runs: 29.0
             team runs: 61.0
+            wicket:
+              kind: caught
+              player_out: Lizelle Lee
         - 8.04
             batter: Emma Inglis
             bowler: Nicola Carey
-            runs scored:             batter runs: 20.0
+            runs scored: 4.0
+            batter runs: 20.0
             team runs: 65.0
         - 8.05
             batter: Emma Inglis
             bowler: Nicola Carey
-            runs scored:             batter runs: 20.0
+            runs scored: 0.0
+            batter runs: 20.0
             team runs: 65.0
+            wicket:
+              kind: bowled
+              player_out: Emma Inglis
         - 8.06
             batter: Katey Martin
             bowler: Nicola Carey
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 65.0
         - 9.01
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 2.0
+            runs scored: 2.0
+            batter runs: 2.0
             team runs: 67.0
         - 9.02
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 3.0
+            runs scored: 1.0
+            batter runs: 3.0
             team runs: 68.0
         - 9.03
             batter: Katey Martin
             bowler: Heather Knight
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 69.0
         - 9.04
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 3.0
+            runs scored: 0.0
+            batter runs: 3.0
             team runs: 69.0
         - 9.05
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 3.0
+            runs scored: 0.0
+            batter runs: 3.0
             team runs: 69.0
         - 9.06
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 5.0
+            runs scored: 2.0
+            batter runs: 5.0
             team runs: 71.0
         - 10.01
             batter: Katey Martin
             bowler: Nicola Carey
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 71.0
         - 10.02
             batter: Katey Martin
             bowler: Nicola Carey
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 72.0
         - 10.03
             batter: Mignon du Preez
             bowler: Nicola Carey
-            runs scored:             batter runs: 9.0
+            runs scored: 4.0
+            batter runs: 9.0
             team runs: 76.0
         - 10.04
             batter: Mignon du Preez
             bowler: Nicola Carey
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 76.0
         - 10.05
             batter: Mignon du Preez
             bowler: Nicola Carey
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 76.0
         - 10.06
             batter: Mignon du Preez
             bowler: Nicola Carey
-            runs scored:             batter runs: 13.0
+            runs scored: 4.0
+            batter runs: 13.0
             team runs: 80.0
         - 11.01
             batter: Katey Martin
             bowler: Heather Knight
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 80.0
         - 11.02
             batter: Katey Martin
             bowler: Heather Knight
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 80.0
         - 11.03
             batter: Katey Martin
             bowler: Heather Knight
-            runs scored:             batter runs: 3.0
+            runs scored: 1.0
+            batter runs: 3.0
             team runs: 81.0
         - 11.04
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 15.0
+            runs scored: 2.0
+            batter runs: 15.0
             team runs: 83.0
         - 11.05
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 16.0
+            runs scored: 1.0
+            batter runs: 16.0
             team runs: 84.0
         - 11.06
             batter: Katey Martin
             bowler: Heather Knight
-            runs scored:             batter runs: 3.0
+            runs scored: 0.0
+            batter runs: 3.0
             team runs: 84.0
         - 12.01
             batter: Mignon du Preez
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 18.0
+            runs scored: 2.0
+            batter runs: 18.0
             team runs: 86.0
         - 12.02
             batter: Mignon du Preez
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 19.0
+            runs scored: 1.0
+            batter runs: 19.0
             team runs: 87.0
         - 12.03
             batter: Katey Martin
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 3.0
+            runs scored: 0.0
+            batter runs: 3.0
             team runs: 87.0
         - 12.04
             batter: Katey Martin
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 3.0
+            runs scored: 1.0
+            batter runs: 3.0
             team runs: 88.0
         - 12.05
             batter: Katey Martin
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 4.0
+            runs scored: 1.0
+            batter runs: 4.0
             team runs: 89.0
         - 12.06
             batter: Mignon du Preez
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 20.0
+            runs scored: 1.0
+            batter runs: 20.0
             team runs: 90.0
         - 12.07
             batter: Katey Martin
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 90.0
         - 13.01
             batter: Mignon du Preez
             bowler: Maisy Gibson
-            runs scored:             batter runs: 21.0
+            runs scored: 1.0
+            batter runs: 21.0
             team runs: 91.0
         - 13.02
             batter: Katey Martin
             bowler: Maisy Gibson
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 91.0
+            wicket:
+              kind: caught
+              player_out: Katey Martin
         - 13.03
             batter: Erin Osborne
             bowler: Maisy Gibson
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 91.0
         - 13.04
             batter: Erin Osborne
             bowler: Maisy Gibson
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 91.0
         - 13.05
             batter: Erin Osborne
             bowler: Maisy Gibson
-            runs scored:             batter runs: 2.0
+            runs scored: 2.0
+            batter runs: 2.0
             team runs: 93.0
         - 13.06
             batter: Erin Osborne
             bowler: Maisy Gibson
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 93.0
         - 14.01
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 21.0
+            runs scored: 0.0
+            batter runs: 21.0
             team runs: 93.0
+            wicket:
+              kind: run out
+              player_out: Mignon du Preez
         - 14.02
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 22.0
+            runs scored: 1.0
+            batter runs: 22.0
             team runs: 94.0
         - 14.03
             batter: Annabel Sutherland
             bowler: Heather Knight
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 95.0
         - 14.04
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 23.0
+            runs scored: 1.0
+            batter runs: 23.0
             team runs: 96.0
         - 14.05
             batter: Annabel Sutherland
             bowler: Heather Knight
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 97.0
         - 14.06
             batter: Annabel Sutherland
             bowler: Heather Knight
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 98.0
         - 14.07
             batter: Mignon du Preez
             bowler: Heather Knight
-            runs scored:             batter runs: 23.0
+            runs scored: 0.0
+            batter runs: 23.0
             team runs: 98.0
+            wicket:
+              kind: stumped
+              player_out: Mignon du Preez
         - 15.01
             batter: Annabel Sutherland
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 3.0
+            runs scored: 1.0
+            batter runs: 3.0
             team runs: 99.0
         - 15.02
             batter: Tess Flintoff
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 100.0
         - 15.03
             batter: Annabel Sutherland
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 7.0
+            runs scored: 4.0
+            batter runs: 7.0
             team runs: 104.0
         - 15.04
             batter: Annabel Sutherland
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 8.0
+            runs scored: 1.0
+            batter runs: 8.0
             team runs: 105.0
         - 15.05
             batter: Tess Flintoff
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 106.0
         - 15.06
             batter: Annabel Sutherland
             bowler: Tayla Vlaeminck
-            runs scored:             batter runs: 8.0
+            runs scored: 0.0
+            batter runs: 8.0
             team runs: 106.0
         - 16.01
             batter: Tess Flintoff
             bowler: Heather Knight
-            runs scored:             batter runs: 4.0
+            runs scored: 2.0
+            batter runs: 4.0
             team runs: 108.0
         - 16.02
             batter: Tess Flintoff
             bowler: Heather Knight
-            runs scored:             batter runs: 5.0
+            runs scored: 1.0
+            batter runs: 5.0
             team runs: 109.0
         - 16.03
             batter: Annabel Sutherland
             bowler: Heather Knight
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 110.0
         - 16.04
             batter: Tess Flintoff
             bowler: Heather Knight
-            runs scored:             batter runs: 6.0
+            runs scored: 1.0
+            batter runs: 6.0
             team runs: 111.0
         - 16.05
             batter: Annabel Sutherland
             bowler: Heather Knight
-            runs scored:             batter runs: 10.0
+            runs scored: 1.0
+            batter runs: 10.0
             team runs: 112.0
         - 16.06
             batter: Tess Flintoff
             bowler: Heather Knight
-            runs scored:             batter runs: 7.0
+            runs scored: 1.0
+            batter runs: 7.0
             team runs: 113.0
         - 17.01
             batter: Tess Flintoff
             bowler: Maisy Gibson
-            runs scored:             batter runs: 8.0
+            runs scored: 1.0
+            batter runs: 8.0
             team runs: 114.0
         - 17.02
             batter: Annabel Sutherland
             bowler: Maisy Gibson
-            runs scored:             batter runs: 10.0
+            runs scored: 0.0
+            batter runs: 10.0
             team runs: 114.0
         - 17.03
             batter: Annabel Sutherland
             bowler: Maisy Gibson
-            runs scored:             batter runs: 11.0
+            runs scored: 1.0
+            batter runs: 11.0
             team runs: 115.0
         - 17.04
             batter: Tess Flintoff
             bowler: Maisy Gibson
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 116.0
         - 17.05
             batter: Annabel Sutherland
             bowler: Maisy Gibson
-            runs scored:             batter runs: 13.0
+            runs scored: 2.0
+            batter runs: 13.0
             team runs: 118.0
         - 17.06
             batter: Annabel Sutherland
             bowler: Maisy Gibson
-            runs scored:             batter runs: 17.0
+            runs scored: 4.0
+            batter runs: 17.0
             team runs: 122.0
         - 18.01
             batter: Tess Flintoff
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 10.0
+            runs scored: 1.0
+            batter runs: 10.0
             team runs: 123.0
         - 18.02
             batter: Annabel Sutherland
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 17.0
+            runs scored: 0.0
+            batter runs: 17.0
             team runs: 123.0
+            wicket:
+              kind: caught
+              player_out: Annabel Sutherland
         - 18.03
             batter: Tess Flintoff
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 12.0
+            runs scored: 2.0
+            batter runs: 12.0
             team runs: 125.0
         - 18.04
             batter: Tess Flintoff
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 12.0
+            runs scored: 0.0
+            batter runs: 12.0
             team runs: 125.0
         - 18.05
             batter: Tess Flintoff
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 12.0
+            runs scored: 0.0
+            batter runs: 12.0
             team runs: 125.0
         - 18.06
             batter: Tess Flintoff
             bowler: Belinda Vakarewa
-            runs scored:             batter runs: 13.0
+            runs scored: 1.0
+            batter runs: 13.0
             team runs: 126.0
         - 19.01
             batter: Tess Flintoff
             bowler: Nicola Carey
-            runs scored:             batter runs: 15.0
+            runs scored: 2.0
+            batter runs: 15.0
             team runs: 128.0
         - 19.02
             batter: Tess Flintoff
             bowler: Nicola Carey
-            runs scored:             batter runs: 17.0
+            runs scored: 2.0
+            batter runs: 17.0
             team runs: 130.0
         - 19.03
             batter: Tess Flintoff
             bowler: Nicola Carey
-            runs scored:             batter runs: 17.0
+            runs scored: 4.0
+            batter runs: 17.0
             team runs: 134.0
         - 19.04
             batter: Tess Flintoff
             bowler: Nicola Carey
-            runs scored:             batter runs: 17.0
+            runs scored: 0.0
+            batter runs: 17.0
             team runs: 134.0
         - 19.05
             batter: Tess Flintoff
             bowler: Nicola Carey
-            runs scored:             batter runs: 18.0
+            runs scored: 1.0
+            batter runs: 18.0
             team runs: 135.0
         - 19.06
             batter: Nicola Hancock
             bowler: Nicola Carey
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 136.0
  - second innings:
       team: Hobart Hurricanes Women
@@ -668,480 +818,591 @@ innings:
         - 0.01
             batter: Erin Fazackerley
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 0.0
         - 0.02
             batter: Erin Fazackerley
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 4.0
+            runs scored: 4.0
+            batter runs: 4.0
             team runs: 4.0
         - 0.03
             batter: Erin Fazackerley
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 8.0
+            runs scored: 4.0
+            batter runs: 8.0
             team runs: 8.0
         - 0.04
             batter: Erin Fazackerley
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 8.0
+            runs scored: 0.0
+            batter runs: 8.0
             team runs: 8.0
         - 0.05
             batter: Erin Fazackerley
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 8.0
+            runs scored: 1.0
+            batter runs: 8.0
             team runs: 9.0
         - 0.06
             batter: Erin Fazackerley
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 10.0
+            runs scored: 2.0
+            batter runs: 10.0
             team runs: 11.0
         - 0.07
             batter: Erin Fazackerley
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 10.0
+            runs scored: 0.0
+            batter runs: 10.0
             team runs: 11.0
         - 1.01
             batter: Stefanie Daffara
             bowler: Erin Osborne
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 12.0
         - 1.02
             batter: Erin Fazackerley
             bowler: Erin Osborne
-            runs scored:             batter runs: 10.0
+            runs scored: 0.0
+            batter runs: 10.0
             team runs: 12.0
         - 1.03
             batter: Erin Fazackerley
             bowler: Erin Osborne
-            runs scored:             batter runs: 14.0
+            runs scored: 4.0
+            batter runs: 14.0
             team runs: 16.0
         - 1.04
             batter: Erin Fazackerley
             bowler: Erin Osborne
-            runs scored:             batter runs: 15.0
+            runs scored: 1.0
+            batter runs: 15.0
             team runs: 17.0
         - 1.05
             batter: Stefanie Daffara
             bowler: Erin Osborne
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 18.0
         - 1.06
             batter: Erin Fazackerley
             bowler: Erin Osborne
-            runs scored:             batter runs: 15.0
+            runs scored: 0.0
+            batter runs: 15.0
             team runs: 18.0
+            wicket:
+              kind: caught
+              player_out: Erin Fazackerley
         - 2.01
             batter: Stefanie Daffara
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 18.0
+            wicket:
+              kind: leg before wicket
+              player_out: Stefanie Daffara
         - 2.02
             batter: Nicola Carey
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 19.0
         - 2.03
             batter: Heather Knight
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 2.0
+            runs scored: 2.0
+            batter runs: 2.0
             team runs: 21.0
         - 2.04
             batter: Heather Knight
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 6.0
+            runs scored: 4.0
+            batter runs: 6.0
             team runs: 25.0
         - 2.05
             batter: Heather Knight
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 6.0
+            runs scored: 0.0
+            batter runs: 6.0
             team runs: 25.0
         - 2.06
             batter: Heather Knight
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 6.0
+            runs scored: 0.0
+            batter runs: 6.0
             team runs: 25.0
         - 3.01
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 25.0
         - 3.02
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 26.0
         - 3.03
             batter: Heather Knight
             bowler: Erin Osborne
-            runs scored:             batter runs: 6.0
+            runs scored: 0.0
+            batter runs: 6.0
             team runs: 26.0
         - 3.04
             batter: Heather Knight
             bowler: Erin Osborne
-            runs scored:             batter runs: 7.0
+            runs scored: 1.0
+            batter runs: 7.0
             team runs: 27.0
         - 3.05
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 4.0
+            runs scored: 2.0
+            batter runs: 4.0
             team runs: 29.0
         - 3.06
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 29.0
         - 4.01
             batter: Heather Knight
             bowler: Nicola Hancock
-            runs scored:             batter runs: 11.0
+            runs scored: 4.0
+            batter runs: 11.0
             team runs: 33.0
         - 4.02
             batter: Heather Knight
             bowler: Nicola Hancock
-            runs scored:             batter runs: 15.0
+            runs scored: 4.0
+            batter runs: 15.0
             team runs: 37.0
         - 4.03
             batter: Heather Knight
             bowler: Nicola Hancock
-            runs scored:             batter runs: 16.0
+            runs scored: 1.0
+            batter runs: 16.0
             team runs: 38.0
         - 4.04
             batter: Nicola Carey
             bowler: Nicola Hancock
-            runs scored:             batter runs: 5.0
+            runs scored: 1.0
+            batter runs: 5.0
             team runs: 39.0
         - 4.05
             batter: Heather Knight
             bowler: Nicola Hancock
-            runs scored:             batter runs: 16.0
+            runs scored: 0.0
+            batter runs: 16.0
             team runs: 39.0
         - 4.06
             batter: Heather Knight
             bowler: Nicola Hancock
-            runs scored:             batter runs: 16.0
+            runs scored: 0.0
+            batter runs: 16.0
             team runs: 39.0
         - 5.01
             batter: Nicola Carey
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 5.0
+            runs scored: 0.0
+            batter runs: 5.0
             team runs: 39.0
         - 5.02
             batter: Nicola Carey
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 5.0
+            runs scored: 0.0
+            batter runs: 5.0
             team runs: 39.0
         - 5.03
             batter: Nicola Carey
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 6.0
+            runs scored: 1.0
+            batter runs: 6.0
             team runs: 40.0
         - 5.04
             batter: Heather Knight
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 16.0
+            runs scored: 0.0
+            batter runs: 16.0
             team runs: 40.0
         - 5.05
             batter: Heather Knight
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 16.0
+            runs scored: 0.0
+            batter runs: 16.0
             team runs: 40.0
         - 5.06
             batter: Heather Knight
             bowler: Annabel Sutherland
-            runs scored:             batter runs: 17.0
+            runs scored: 1.0
+            batter runs: 17.0
             team runs: 41.0
         - 6.01
             batter: Heather Knight
             bowler: Nicola Hancock
-            runs scored:             batter runs: 18.0
+            runs scored: 1.0
+            batter runs: 18.0
             team runs: 42.0
         - 6.02
             batter: Nicola Carey
             bowler: Nicola Hancock
-            runs scored:             batter runs: 7.0
+            runs scored: 1.0
+            batter runs: 7.0
             team runs: 43.0
         - 6.03
             batter: Heather Knight
             bowler: Nicola Hancock
-            runs scored:             batter runs: 18.0
+            runs scored: 1.0
+            batter runs: 18.0
             team runs: 44.0
         - 6.04
             batter: Nicola Carey
             bowler: Nicola Hancock
-            runs scored:             batter runs: 11.0
+            runs scored: 4.0
+            batter runs: 11.0
             team runs: 48.0
         - 6.05
             batter: Nicola Carey
             bowler: Nicola Hancock
-            runs scored:             batter runs: 11.0
+            runs scored: 1.0
+            batter runs: 11.0
             team runs: 49.0
         - 6.06
             batter: Heather Knight
             bowler: Nicola Hancock
-            runs scored:             batter runs: 18.0
+            runs scored: 0.0
+            batter runs: 18.0
             team runs: 49.0
         - 7.01
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 11.0
+            runs scored: 0.0
+            batter runs: 11.0
             team runs: 49.0
         - 7.02
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 12.0
+            runs scored: 1.0
+            batter runs: 12.0
             team runs: 50.0
         - 7.03
             batter: Heather Knight
             bowler: Erin Osborne
-            runs scored:             batter runs: 18.0
+            runs scored: 0.0
+            batter runs: 18.0
             team runs: 50.0
         - 7.04
             batter: Heather Knight
             bowler: Erin Osborne
-            runs scored:             batter runs: 18.0
+            runs scored: 0.0
+            batter runs: 18.0
             team runs: 50.0
+            wicket:
+              kind: leg before wicket
+              player_out: Heather Knight
         - 7.05
             batter: Fran Wilson
             bowler: Erin Osborne
-            runs scored:             batter runs: 0.0
+            runs scored: 0.0
+            batter runs: 0.0
             team runs: 50.0
         - 7.06
             batter: Fran Wilson
             bowler: Erin Osborne
-            runs scored:             batter runs: 2.0
+            runs scored: 2.0
+            batter runs: 2.0
             team runs: 52.0
         - 8.01
             batter: Nicola Carey
             bowler: Tess Flintoff
-            runs scored:             batter runs: 12.0
+            runs scored: 0.0
+            batter runs: 12.0
             team runs: 52.0
         - 8.02
             batter: Nicola Carey
             bowler: Tess Flintoff
-            runs scored:             batter runs: 12.0
+            runs scored: 0.0
+            batter runs: 12.0
             team runs: 52.0
         - 8.03
             batter: Nicola Carey
             bowler: Tess Flintoff
-            runs scored:             batter runs: 14.0
+            runs scored: 2.0
+            batter runs: 14.0
             team runs: 54.0
         - 8.04
             batter: Nicola Carey
             bowler: Tess Flintoff
-            runs scored:             batter runs: 15.0
+            runs scored: 1.0
+            batter runs: 15.0
             team runs: 55.0
         - 8.05
             batter: Fran Wilson
             bowler: Tess Flintoff
-            runs scored:             batter runs: 2.0
+            runs scored: 0.0
+            batter runs: 2.0
             team runs: 55.0
         - 8.06
             batter: Fran Wilson
             bowler: Tess Flintoff
-            runs scored:             batter runs: 3.0
+            runs scored: 1.0
+            batter runs: 3.0
             team runs: 56.0
         - 9.01
             batter: Fran Wilson
             bowler: Nicola Hancock
-            runs scored:             batter runs: 4.0
+            runs scored: 1.0
+            batter runs: 4.0
             team runs: 57.0
         - 9.02
             batter: Nicola Carey
             bowler: Nicola Hancock
-            runs scored:             batter runs: 16.0
+            runs scored: 1.0
+            batter runs: 16.0
             team runs: 58.0
         - 9.03
             batter: Fran Wilson
             bowler: Nicola Hancock
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 58.0
         - 9.04
             batter: Fran Wilson
             bowler: Nicola Hancock
-            runs scored:             batter runs: 4.0
+            runs scored: 0.0
+            batter runs: 4.0
             team runs: 58.0
         - 9.05
             batter: Fran Wilson
             bowler: Nicola Hancock
-            runs scored:             batter runs: 5.0
+            runs scored: 1.0
+            batter runs: 5.0
             team runs: 59.0
         - 9.06
             batter: Nicola Carey
             bowler: Nicola Hancock
-            runs scored:             batter runs: 17.0
+            runs scored: 1.0
+            batter runs: 17.0
             team runs: 60.0
         - 10.01
             batter: Nicola Carey
             bowler: Kristen Beams
-            runs scored:             batter runs: 18.0
+            runs scored: 1.0
+            batter runs: 18.0
             team runs: 61.0
         - 10.02
             batter: Fran Wilson
             bowler: Kristen Beams
-            runs scored:             batter runs: 6.0
+            runs scored: 1.0
+            batter runs: 6.0
             team runs: 62.0
         - 10.03
             batter: Nicola Carey
             bowler: Kristen Beams
-            runs scored:             batter runs: 18.0
+            runs scored: 0.0
+            batter runs: 18.0
             team runs: 62.0
         - 10.04
             batter: Nicola Carey
             bowler: Kristen Beams
-            runs scored:             batter runs: 19.0
+            runs scored: 1.0
+            batter runs: 19.0
             team runs: 63.0
         - 10.05
             batter: Fran Wilson
             bowler: Kristen Beams
-            runs scored:             batter runs: 6.0
+            runs scored: 0.0
+            batter runs: 6.0
             team runs: 63.0
+            wicket:
+              kind: bowled
+              player_out: Fran Wilson
         - 10.06
             batter: Corinne Hall
             bowler: Kristen Beams
-            runs scored:             batter runs: 1.0
+            runs scored: 1.0
+            batter runs: 1.0
             team runs: 64.0
         - 11.01
             batter: Corinne Hall
             bowler: Chloe Rafferty
-            runs scored:             batter runs: 1.0
+            runs scored: 0.0
+            batter runs: 1.0
             team runs: 64.0
         - 11.02
             batter: Corinne Hall
             bowler: Chloe Rafferty
-            runs scored:             batter runs: 2.0
+            runs scored: 1.0
+            batter runs: 2.0
             team runs: 65.0
         - 11.03
             batter: Nicola Carey
             bowler: Chloe Rafferty
-            runs scored:             batter runs: 23.0
+            runs scored: 4.0
+            batter runs: 23.0
             team runs: 69.0
         - 11.04
             batter: Nicola Carey
             bowler: Chloe Rafferty
-            runs scored:             batter runs: 24.0
+            runs scored: 1.0
+            batter runs: 24.0
             team runs: 70.0
         - 11.05
             batter: Corinne Hall
             bowler: Chloe Rafferty
-            runs scored:             batter runs: 3.0
+            runs scored: 1.0
+            batter runs: 3.0
             team runs: 71.0
         - 11.06
             batter: Nicola Carey
             bowler: Chloe Rafferty
-            runs scored:             batter runs: 25.0
+            runs scored: 1.0
+            batter runs: 25.0
             team runs: 72.0
         - 12.01
             batter: Nicola Carey
             bowler: Kristen Beams
-            runs scored:             batter runs: 26.0
+            runs scored: 1.0
+            batter runs: 26.0
             team runs: 73.0
         - 12.02
             batter: Corinne Hall
             bowler: Kristen Beams
-            runs scored:             batter runs: 3.0
+            runs scored: 0.0
+            batter runs: 3.0
             team runs: 73.0
+            wicket:
+              kind: leg before wicket
+              player_out: Corinne Hall
         - 12.03
             batter: Chloe Tryon
             bowler: Kristen Beams
-            runs scored:             batter runs: 4.0
+            runs scored: 4.0
+            batter runs: 4.0
             team runs: 77.0
         - 12.04
             batter: Chloe Tryon
             bowler: Kristen Beams
-            runs scored:             batter runs: 5.0
+            runs scored: 1.0
+            batter runs: 5.0
             team runs: 78.0
         - 12.05
             batter: Nicola Carey
             bowler: Kristen Beams
-            runs scored:             batter runs: 27.0
+            runs scored: 1.0
+            batter runs: 27.0
             team runs: 79.0
         - 12.06
             batter: Chloe Tryon
             bowler: Kristen Beams
-            runs scored:             batter runs: 6.0
+            runs scored: 1.0
+            batter runs: 6.0
             team runs: 80.0
         - 13.01
             batter: Chloe Tryon
             bowler: Nicola Hancock
-            runs scored:             batter runs: 6.0
+            runs scored: 1.0
+            batter runs: 6.0
             team runs: 81.0
         - 13.02
             batter: Nicola Carey
             bowler: Nicola Hancock
-            runs scored:             batter runs: 28.0
+            runs scored: 1.0
+            batter runs: 28.0
             team runs: 82.0
         - 13.03
             batter: Chloe Tryon
             bowler: Nicola Hancock
-            runs scored:             batter runs: 6.0
+            runs scored: 0.0
+            batter runs: 6.0
             team runs: 82.0
         - 13.04
             batter: Chloe Tryon
             bowler: Nicola Hancock
-            runs scored:             batter runs: 7.0
+            runs scored: 1.0
+            batter runs: 7.0
             team runs: 83.0
         - 13.05
             batter: Nicola Carey
             bowler: Nicola Hancock
-            runs scored:             batter runs: 29.0
+            runs scored: 1.0
+            batter runs: 29.0
             team runs: 84.0
         - 13.06
             batter: Chloe Tryon
             bowler: Nicola Hancock
-            runs scored:             batter runs: 8.0
+            runs scored: 1.0
+            batter runs: 8.0
             team runs: 85.0
         - 14.01
             batter: Chloe Tryon
             bowler: Tess Flintoff
-            runs scored:             batter runs: 9.0
+            runs scored: 1.0
+            batter runs: 9.0
             team runs: 86.0
         - 14.02
             batter: Nicola Carey
             bowler: Tess Flintoff
-            runs scored:             batter runs: 29.0
+            runs scored: 0.0
+            batter runs: 29.0
             team runs: 86.0
         - 14.03
             batter: Nicola Carey
             bowler: Tess Flintoff
-            runs scored:             batter runs: 33.0
+            runs scored: 4.0
+            batter runs: 33.0
             team runs: 90.0
         - 14.04
             batter: Nicola Carey
             bowler: Tess Flintoff
-            runs scored:             batter runs: 35.0
+            runs scored: 2.0
+            batter runs: 35.0
             team runs: 92.0
         - 14.05
             batter: Nicola Carey
             bowler: Tess Flintoff
-            runs scored:             batter runs: 36.0
+            runs scored: 1.0
+            batter runs: 36.0
             team runs: 93.0
         - 14.06
             batter: Chloe Tryon
             bowler: Tess Flintoff
-            runs scored:             batter runs: 9.0
+            runs scored: 0.0
+            batter runs: 9.0
             team runs: 93.0
         - 15.01
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 40.0
+            runs scored: 4.0
+            batter runs: 40.0
             team runs: 97.0
         - 15.02
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 41.0
+            runs scored: 1.0
+            batter runs: 41.0
             team runs: 98.0
         - 15.03
             batter: Chloe Tryon
             bowler: Erin Osborne
-            runs scored:             batter runs: 10.0
+            runs scored: 1.0
+            batter runs: 10.0
             team runs: 99.0
         - 15.04
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 45.0
+            runs scored: 4.0
+            batter runs: 45.0
             team runs: 103.0
         - 15.05
             batter: Nicola Carey
             bowler: Erin Osborne
-            runs scored:             batter runs: 46.0
+            runs scored: 1.0
+            batter runs: 46.0
             team runs: 104.0
