@@ -1,0 +1,1147 @@
+info 
+  city: Sydney
+  gender: female 
+  match_type: T20 
+  outcome: 
+    by: 7 wickets (with 7 balls remaining)
+    winner: Thunder
+  teams: 
+    - Sydney Thunder Women
+    - Brisbane Heat Women
+  toss: Brisbane Heat Women , elected to bat first
+  umpires: 
+    - Andrew Hamilton
+    - Neil Findlay
+  venue: North Sydney Oval, Sydney
+innings:
+ - first innings:
+      team: Brisbane Heat Women
+      deliveries: 
+        - 0.01
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 0.0
+            team runs: 1.0
+        - 0.02
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 0.0
+            team runs: 1.0
+        - 0.03
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 0.0
+            team runs: 1.0
+        - 0.04
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 1.0
+            team runs: 2.0
+        - 0.05
+            batter: Kirby Short
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 1.0
+            team runs: 3.0
+        - 0.06
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 1.0
+            team runs: 3.0
+        - 0.07
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 1.0
+            team runs: 3.0
+        - 1.01
+            batter: Kirby Short
+            bowler: Rene Farrell
+            runs scored:             batter runs: 2.0
+            team runs: 4.0
+        - 1.02
+            batter: Beth Mooney
+            bowler: Rene Farrell
+            runs scored:             batter runs: 3.0
+            team runs: 6.0
+        - 1.03
+            batter: Beth Mooney
+            bowler: Rene Farrell
+            runs scored:             batter runs: 3.0
+            team runs: 7.0
+        - 1.04
+            batter: Kirby Short
+            bowler: Rene Farrell
+            runs scored:             batter runs: 2.0
+            team runs: 7.0
+        - 1.05
+            batter: Kirby Short
+            bowler: Rene Farrell
+            runs scored:             batter runs: 2.0
+            team runs: 7.0
+        - 1.06
+            batter: Kirby Short
+            bowler: Rene Farrell
+            runs scored:             batter runs: 2.0
+            team runs: 7.0
+        - 2.01
+            batter: Beth Mooney
+            bowler: Samantha Bates
+            runs scored:             batter runs: 3.0
+            team runs: 7.0
+        - 2.02
+            batter: Beth Mooney
+            bowler: Samantha Bates
+            runs scored:             batter runs: 3.0
+            team runs: 7.0
+        - 2.03
+            batter: Beth Mooney
+            bowler: Samantha Bates
+            runs scored:             batter runs: 4.0
+            team runs: 8.0
+        - 2.04
+            batter: Kirby Short
+            bowler: Samantha Bates
+            runs scored:             batter runs: 3.0
+            team runs: 9.0
+        - 2.05
+            batter: Beth Mooney
+            bowler: Samantha Bates
+            runs scored:             batter runs: 8.0
+            team runs: 13.0
+        - 2.06
+            batter: Beth Mooney
+            bowler: Samantha Bates
+            runs scored:             batter runs: 9.0
+            team runs: 14.0
+        - 3.01
+            batter: Beth Mooney
+            bowler: Rene Farrell
+            runs scored:             batter runs: 13.0
+            team runs: 18.0
+        - 3.02
+            batter: Beth Mooney
+            bowler: Rene Farrell
+            runs scored:             batter runs: 17.0
+            team runs: 22.0
+        - 3.03
+            batter: Beth Mooney
+            bowler: Rene Farrell
+            runs scored:             batter runs: 18.0
+            team runs: 23.0
+        - 3.04
+            batter: Kirby Short
+            bowler: Rene Farrell
+            runs scored:             batter runs: 4.0
+            team runs: 24.0
+        - 3.05
+            batter: Beth Mooney
+            bowler: Rene Farrell
+            runs scored:             batter runs: 18.0
+            team runs: 25.0
+        - 3.06
+            batter: Kirby Short
+            bowler: Rene Farrell
+            runs scored:             batter runs: 4.0
+            team runs: 25.0
+        - 4.01
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 22.0
+            team runs: 29.0
+        - 4.02
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 26.0
+            team runs: 33.0
+        - 4.03
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 30.0
+            team runs: 37.0
+        - 4.04
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 30.0
+            team runs: 37.0
+        - 4.05
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 30.0
+            team runs: 37.0
+        - 4.06
+            batter: Beth Mooney
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 34.0
+            team runs: 41.0
+        - 5.01
+            batter: Kirby Short
+            bowler: Samantha Bates
+            runs scored:             batter runs: 5.0
+            team runs: 42.0
+        - 5.02
+            batter: Beth Mooney
+            bowler: Samantha Bates
+            runs scored:             batter runs: 35.0
+            team runs: 43.0
+        - 5.03
+            batter: Kirby Short
+            bowler: Samantha Bates
+            runs scored:             batter runs: 6.0
+            team runs: 44.0
+        - 5.04
+            batter: Beth Mooney
+            bowler: Samantha Bates
+            runs scored:             batter runs: 35.0
+            team runs: 44.0
+        - 5.05
+            batter: Grace Harris
+            bowler: Samantha Bates
+            runs scored:             batter runs: 0.0
+            team runs: 44.0
+        - 5.06
+            batter: Grace Harris
+            bowler: Samantha Bates
+            runs scored:             batter runs: 6.0
+            team runs: 50.0
+        - 6.01
+            batter: Kirby Short
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 10.0
+            team runs: 54.0
+        - 6.02
+            batter: Kirby Short
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 10.0
+            team runs: 54.0
+        - 6.03
+            batter: Jess Jonassen
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 0.0
+            team runs: 55.0
+        - 6.04
+            batter: Kirby Short
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 11.0
+            team runs: 56.0
+        - 6.05
+            batter: Jess Jonassen
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 1.0
+            team runs: 57.0
+        - 6.06
+            batter: Kirby Short
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 15.0
+            team runs: 61.0
+        - 7.01
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 1.0
+            team runs: 61.0
+        - 7.03
+            batter: Kirby Short
+            bowler: Nida Dar
+            runs scored:             batter runs: 15.0
+            team runs: 62.0
+        - 7.04
+            batter: Kirby Short
+            bowler: Nida Dar
+            runs scored:             batter runs: 15.0
+            team runs: 62.0
+        - 7.05
+            batter: Maddy Green
+            bowler: Nida Dar
+            runs scored:             batter runs: 1.0
+            team runs: 63.0
+        - 7.06
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 6.0
+            team runs: 67.0
+        - 8.01
+            batter: Maddy Green
+            bowler: Lisa Griffith
+            runs scored:             batter runs: 2.0
+            team runs: 68.0
+        - 8.02
+            batter: Jess Jonassen
+            bowler: Lisa Griffith
+            runs scored:             batter runs: 10.0
+            team runs: 72.0
+        - 8.03
+            batter: Jess Jonassen
+            bowler: Lisa Griffith
+            runs scored:             batter runs: 11.0
+            team runs: 73.0
+        - 8.04
+            batter: Maddy Green
+            bowler: Lisa Griffith
+            runs scored:             batter runs: 6.0
+            team runs: 77.0
+        - 8.05
+            batter: Maddy Green
+            bowler: Lisa Griffith
+            runs scored:             batter runs: 6.0
+            team runs: 77.0
+        - 8.06
+            batter: Maddy Green
+            bowler: Lisa Griffith
+            runs scored:             batter runs: 10.0
+            team runs: 81.0
+        - 9.01
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 12.0
+            team runs: 82.0
+        - 9.02
+            batter: Maddy Green
+            bowler: Nida Dar
+            runs scored:             batter runs: 11.0
+            team runs: 83.0
+        - 9.03
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 13.0
+            team runs: 84.0
+        - 9.04
+            batter: Maddy Green
+            bowler: Nida Dar
+            runs scored:             batter runs: 12.0
+            team runs: 85.0
+        - 9.05
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 14.0
+            team runs: 86.0
+        - 9.06
+            batter: Maddy Green
+            bowler: Nida Dar
+            runs scored:             batter runs: 13.0
+            team runs: 87.0
+        - 10.01
+            batter: Maddy Green
+            bowler: Samantha Bates
+            runs scored:             batter runs: 13.0
+            team runs: 87.0
+        - 10.02
+            batter: Maddy Green
+            bowler: Samantha Bates
+            runs scored:             batter runs: 13.0
+            team runs: 87.0
+        - 10.03
+            batter: Jess Jonassen
+            bowler: Samantha Bates
+            runs scored:             batter runs: 18.0
+            team runs: 91.0
+        - 10.04
+            batter: Jess Jonassen
+            bowler: Samantha Bates
+            runs scored:             batter runs: 19.0
+            team runs: 92.0
+        - 10.05
+            batter: Sammy-Jo Johnson
+            bowler: Samantha Bates
+            runs scored:             batter runs: 0.0
+            team runs: 92.0
+        - 10.06
+            batter: Mikayla Hinkley
+            bowler: Samantha Bates
+            runs scored:             batter runs: 0.0
+            team runs: 92.0
+        - 11.01
+            batter: Jess Jonassen
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 20.0
+            team runs: 93.0
+        - 11.02
+            batter: Mikayla Hinkley
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 0.0
+            team runs: 93.0
+        - 11.03
+            batter: Mikayla Hinkley
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 0.0
+            team runs: 93.0
+        - 11.04
+            batter: Mikayla Hinkley
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 0.0
+            team runs: 93.0
+        - 11.05
+            batter: Mikayla Hinkley
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 0.0
+            team runs: 93.0
+        - 11.06
+            batter: Mikayla Hinkley
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 1.0
+            team runs: 94.0
+        - 12.01
+            batter: Mikayla Hinkley
+            bowler: Rene Farrell
+            runs scored:             batter runs: 2.0
+            team runs: 95.0
+        - 12.02
+            batter: Jess Jonassen
+            bowler: Rene Farrell
+            runs scored:             batter runs: 20.0
+            team runs: 95.0
+        - 12.03
+            batter: Jess Jonassen
+            bowler: Rene Farrell
+            runs scored:             batter runs: 20.0
+            team runs: 95.0
+        - 12.04
+            batter: Jess Jonassen
+            bowler: Rene Farrell
+            runs scored:             batter runs: 21.0
+            team runs: 96.0
+        - 12.05
+            batter: Mikayla Hinkley
+            bowler: Rene Farrell
+            runs scored:             batter runs: 6.0
+            team runs: 100.0
+        - 12.06
+            batter: Mikayla Hinkley
+            bowler: Rene Farrell
+            runs scored:             batter runs: 7.0
+            team runs: 101.0
+        - 13.01
+            batter: Mikayla Hinkley
+            bowler: Nida Dar
+            runs scored:             batter runs: 8.0
+            team runs: 102.0
+        - 13.02
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 23.0
+            team runs: 104.0
+        - 13.03
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 29.0
+            team runs: 110.0
+        - 13.04
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 30.0
+            team runs: 111.0
+        - 13.05
+            batter: Mikayla Hinkley
+            bowler: Nida Dar
+            runs scored:             batter runs: 8.0
+            team runs: 111.0
+        - 13.06
+            batter: Jess Jonassen
+            bowler: Nida Dar
+            runs scored:             batter runs: 30.0
+            team runs: 111.0
+        - 14.01
+            batter: Laura Harris
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 0.0
+            team runs: 111.0
+        - 14.02
+            batter: Laura Harris
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 0.0
+            team runs: 111.0
+        - 14.03
+            batter: Laura Harris
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 0.0
+            team runs: 111.0
+        - 14.04
+            batter: Laura Harris
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 4.0
+            team runs: 115.0
+        - 14.05
+            batter: Laura Harris
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 4.0
+            team runs: 115.0
+        - 14.06
+            batter: Jess Jonassen
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 31.0
+            team runs: 116.0
+        - 15.02
+            batter: Jess Jonassen
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 32.0
+            team runs: 117.0
+        - 15.03
+            batter: Amelia Kerr
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 1.0
+            team runs: 118.0
+        - 15.04
+            batter: Jess Jonassen
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 32.0
+            team runs: 118.0
+        - 15.05
+            batter: Jess Jonassen
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 32.0
+            team runs: 118.0
+        - 15.06
+            batter: Jess Jonassen
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 32.0
+            team runs: 118.0
+        - 16.01
+            batter: Amelia Kerr
+            bowler: Samantha Bates
+            runs scored:             batter runs: 2.0
+            team runs: 119.0
+        - 16.02
+            batter: Jess Jonassen
+            bowler: Samantha Bates
+            runs scored:             batter runs: 33.0
+            team runs: 120.0
+        - 16.03
+            batter: Amelia Kerr
+            bowler: Samantha Bates
+            runs scored:             batter runs: 3.0
+            team runs: 121.0
+        - 16.04
+            batter: Jess Jonassen
+            bowler: Samantha Bates
+            runs scored:             batter runs: 35.0
+            team runs: 123.0
+        - 16.05
+            batter: Jess Jonassen
+            bowler: Samantha Bates
+            runs scored:             batter runs: 35.0
+            team runs: 125.0
+        - 16.06
+            batter: Amelia Kerr
+            bowler: Samantha Bates
+            runs scored:             batter runs: 7.0
+            team runs: 129.0
+        - 16.07
+            batter: Amelia Kerr
+            bowler: Samantha Bates
+            runs scored:             batter runs: 8.0
+            team runs: 130.0
+        - 17.01
+            batter: Amelia Kerr
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 8.0
+            team runs: 130.0
+        - 17.02
+            batter: Delissa Kimmince
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 1.0
+            team runs: 131.0
+        - 17.03
+            batter: Jess Jonassen
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 36.0
+            team runs: 132.0
+        - 17.04
+            batter: Delissa Kimmince
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 1.0
+            team runs: 132.0
+        - 17.05
+            batter: Delissa Kimmince
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 5.0
+            team runs: 136.0
+        - 17.06
+            batter: Delissa Kimmince
+            bowler: Hannah Darlington
+            runs scored:             batter runs: 7.0
+            team runs: 138.0
+        - 18.01
+            batter: Jess Jonassen
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 38.0
+            team runs: 140.0
+        - 18.02
+            batter: Jess Jonassen
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 39.0
+            team runs: 141.0
+        - 18.03
+            batter: Delissa Kimmince
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 7.0
+            team runs: 141.0
+        - 18.04
+            batter: Delissa Kimmince
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 8.0
+            team runs: 142.0
+        - 18.05
+            batter: Jess Jonassen
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 40.0
+            team runs: 143.0
+        - 18.06
+            batter: Delissa Kimmince
+            bowler: Shabnim Ismail
+            runs scored:             batter runs: 8.0
+            team runs: 144.0
+        - 19.01
+            batter: Delissa Kimmince
+            bowler: Rene Farrell
+            runs scored:             batter runs: 9.0
+            team runs: 145.0
+        - 19.02
+            batter: Jess Jonassen
+            bowler: Rene Farrell
+            runs scored:             batter runs: 41.0
+            team runs: 146.0
+        - 19.03
+            batter: Delissa Kimmince
+            bowler: Rene Farrell
+            runs scored:             batter runs: 10.0
+            team runs: 147.0
+        - 19.04
+            batter: Jess Jonassen
+            bowler: Rene Farrell
+            runs scored:             batter runs: 42.0
+            team runs: 148.0
+        - 19.05
+            batter: Georgia Prestwidge
+            bowler: Rene Farrell
+            runs scored:             batter runs: 1.0
+            team runs: 149.0
+        - 19.06
+            batter: Delissa Kimmince
+            bowler: Rene Farrell
+            runs scored:             batter runs: 11.0
+            team runs: 150.0
+ - second innings:
+      team: Sydney Thunder Women
+      deliveries: 
+        - 0.01
+            batter: Naomi Stalenberg
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 0.0
+            team runs: 0.0
+        - 0.02
+            batter: Naomi Stalenberg
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 1.0
+            team runs: 1.0
+        - 0.03
+            batter: Rachel Priest
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 1.0
+            team runs: 2.0
+        - 0.04
+            batter: Naomi Stalenberg
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 2.0
+            team runs: 3.0
+        - 0.05
+            batter: Rachel Priest
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 5.0
+            team runs: 7.0
+        - 0.06
+            batter: Rachel Priest
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 6.0
+            team runs: 8.0
+        - 1.01
+            batter: Rachel Priest
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 8.0
+            team runs: 10.0
+        - 1.02
+            batter: Rachel Priest
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 8.0
+            team runs: 10.0
+        - 1.03
+            batter: Rachel Priest
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 10.0
+            team runs: 12.0
+        - 1.04
+            batter: Rachel Priest
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 14.0
+            team runs: 16.0
+        - 1.05
+            batter: Rachel Priest
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 18.0
+            team runs: 20.0
+        - 1.06
+            batter: Rachel Priest
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 20.0
+            team runs: 22.0
+        - 2.01
+            batter: Naomi Stalenberg
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 6.0
+            team runs: 26.0
+        - 2.02
+            batter: Naomi Stalenberg
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 6.0
+            team runs: 26.0
+        - 2.03
+            batter: Naomi Stalenberg
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 6.0
+            team runs: 26.0
+        - 2.04
+            batter: Naomi Stalenberg
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 10.0
+            team runs: 30.0
+        - 2.05
+            batter: Naomi Stalenberg
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 14.0
+            team runs: 34.0
+        - 2.06
+            batter: Naomi Stalenberg
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 18.0
+            team runs: 38.0
+        - 3.01
+            batter: Rachel Priest
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 24.0
+            team runs: 42.0
+        - 3.02
+            batter: Rachel Priest
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 24.0
+            team runs: 42.0
+        - 3.03
+            batter: Rachel Priest
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 24.0
+            team runs: 42.0
+        - 3.04
+            batter: Rachel Priest
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 28.0
+            team runs: 46.0
+        - 3.05
+            batter: Rachel Priest
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 29.0
+            team runs: 47.0
+        - 3.06
+            batter: Naomi Stalenberg
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 18.0
+            team runs: 47.0
+        - 4.01
+            batter: Rachel Priest
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 30.0
+            team runs: 48.0
+        - 4.02
+            batter: Naomi Stalenberg
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 18.0
+            team runs: 48.0
+        - 4.03
+            batter: Rachel Priest
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 31.0
+            team runs: 49.0
+        - 4.04
+            batter: Rachael Haynes
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 0.0
+            team runs: 49.0
+        - 4.05
+            batter: Rachael Haynes
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 0.0
+            team runs: 49.0
+        - 4.06
+            batter: Rachael Haynes
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 0.0
+            team runs: 49.0
+        - 5.01
+            batter: Rachel Priest
+            bowler: Grace Harris
+            runs scored:             batter runs: 31.0
+            team runs: 49.0
+        - 5.02
+            batter: Rachael Haynes
+            bowler: Grace Harris
+            runs scored:             batter runs: 0.0
+            team runs: 49.0
+        - 5.03
+            batter: Rachael Haynes
+            bowler: Grace Harris
+            runs scored:             batter runs: 1.0
+            team runs: 50.0
+        - 5.04
+            batter: Alex Blackwell
+            bowler: Grace Harris
+            runs scored:             batter runs: 1.0
+            team runs: 51.0
+        - 5.05
+            batter: Rachael Haynes
+            bowler: Grace Harris
+            runs scored:             batter runs: 1.0
+            team runs: 51.0
+        - 5.06
+            batter: Rachael Haynes
+            bowler: Grace Harris
+            runs scored:             batter runs: 1.0
+            team runs: 51.0
+        - 6.01
+            batter: Alex Blackwell
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 2.0
+            team runs: 52.0
+        - 6.02
+            batter: Rachael Haynes
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 1.0
+            team runs: 52.0
+        - 6.03
+            batter: Rachael Haynes
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 1.0
+            team runs: 52.0
+        - 6.04
+            batter: Rachael Haynes
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 1.0
+            team runs: 52.0
+        - 6.05
+            batter: Phoebe Litchfield
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 0.0
+            team runs: 53.0
+        - 6.06
+            batter: Phoebe Litchfield
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 0.0
+            team runs: 53.0
+        - 6.07
+            batter: Phoebe Litchfield
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 0.0
+            team runs: 53.0
+        - 7.01
+            batter: Alex Blackwell
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 2.0
+            team runs: 53.0
+        - 7.02
+            batter: Alex Blackwell
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 3.0
+            team runs: 54.0
+        - 7.03
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 0.0
+            team runs: 54.0
+        - 7.04
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 1.0
+            team runs: 55.0
+        - 7.05
+            batter: Alex Blackwell
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 4.0
+            team runs: 56.0
+        - 7.06
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 1.0
+            team runs: 56.0
+        - 8.01
+            batter: Alex Blackwell
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 4.0
+            team runs: 56.0
+        - 8.02
+            batter: Alex Blackwell
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 5.0
+            team runs: 57.0
+        - 8.03
+            batter: Phoebe Litchfield
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 2.0
+            team runs: 58.0
+        - 8.04
+            batter: Alex Blackwell
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 6.0
+            team runs: 59.0
+        - 8.05
+            batter: Phoebe Litchfield
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 2.0
+            team runs: 59.0
+        - 8.06
+            batter: Phoebe Litchfield
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 3.0
+            team runs: 60.0
+        - 9.01
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 3.0
+            team runs: 60.0
+        - 9.02
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 3.0
+            team runs: 60.0
+        - 9.03
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 7.0
+            team runs: 64.0
+        - 9.04
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 7.0
+            team runs: 64.0
+        - 9.05
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 7.0
+            team runs: 64.0
+        - 9.06
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 8.0
+            team runs: 65.0
+        - 10.01
+            batter: Phoebe Litchfield
+            bowler: Grace Harris
+            runs scored:             batter runs: 9.0
+            team runs: 66.0
+        - 10.02
+            batter: Alex Blackwell
+            bowler: Grace Harris
+            runs scored:             batter runs: 7.0
+            team runs: 67.0
+        - 10.03
+            batter: Phoebe Litchfield
+            bowler: Grace Harris
+            runs scored:             batter runs: 10.0
+            team runs: 68.0
+        - 10.04
+            batter: Alex Blackwell
+            bowler: Grace Harris
+            runs scored:             batter runs: 8.0
+            team runs: 69.0
+        - 10.05
+            batter: Phoebe Litchfield
+            bowler: Grace Harris
+            runs scored:             batter runs: 10.0
+            team runs: 69.0
+        - 10.06
+            batter: Phoebe Litchfield
+            bowler: Grace Harris
+            runs scored:             batter runs: 11.0
+            team runs: 70.0
+        - 11.01
+            batter: Phoebe Litchfield
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 11.0
+            team runs: 70.0
+        - 11.02
+            batter: Phoebe Litchfield
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 11.0
+            team runs: 70.0
+        - 11.03
+            batter: Phoebe Litchfield
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 11.0
+            team runs: 70.0
+        - 11.04
+            batter: Phoebe Litchfield
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 11.0
+            team runs: 70.0
+        - 11.05
+            batter: Phoebe Litchfield
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 15.0
+            team runs: 74.0
+        - 11.06
+            batter: Phoebe Litchfield
+            bowler: Georgia Prestwidge
+            runs scored:             batter runs: 19.0
+            team runs: 78.0
+        - 12.01
+            batter: Alex Blackwell
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 8.0
+            team runs: 79.0
+        - 12.02
+            batter: Alex Blackwell
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 9.0
+            team runs: 80.0
+        - 12.03
+            batter: Phoebe Litchfield
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 20.0
+            team runs: 81.0
+        - 12.04
+            batter: Alex Blackwell
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 9.0
+            team runs: 81.0
+        - 12.05
+            batter: Alex Blackwell
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 10.0
+            team runs: 82.0
+        - 12.06
+            batter: Phoebe Litchfield
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 20.0
+            team runs: 82.0
+        - 12.07
+            batter: Phoebe Litchfield
+            bowler: Sammy-Jo Johnson
+            runs scored:             batter runs: 21.0
+            team runs: 87.0
+        - 13.01
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 21.0
+            team runs: 87.0
+        - 13.02
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 21.0
+            team runs: 87.0
+        - 13.03
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 21.0
+            team runs: 87.0
+        - 13.04
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 25.0
+            team runs: 91.0
+        - 13.05
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 26.0
+            team runs: 92.0
+        - 13.06
+            batter: Alex Blackwell
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 11.0
+            team runs: 93.0
+        - 14.01
+            batter: Alex Blackwell
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 11.0
+            team runs: 93.0
+        - 14.02
+            batter: Alex Blackwell
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 12.0
+            team runs: 94.0
+        - 14.03
+            batter: Phoebe Litchfield
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 26.0
+            team runs: 95.0
+        - 14.04
+            batter: Phoebe Litchfield
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 26.0
+            team runs: 96.0
+        - 14.05
+            batter: Alex Blackwell
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 16.0
+            team runs: 100.0
+        - 14.06
+            batter: Alex Blackwell
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 16.0
+            team runs: 101.0
+        - 14.07
+            batter: Alex Blackwell
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 17.0
+            team runs: 102.0
+        - 14.08
+            batter: Phoebe Litchfield
+            bowler: Delissa Kimmince
+            runs scored:             batter runs: 30.0
+            team runs: 106.0
+        - 15.01
+            batter: Alex Blackwell
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 18.0
+            team runs: 107.0
+        - 15.02
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 34.0
+            team runs: 111.0
+        - 15.03
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 34.0
+            team runs: 111.0
+        - 15.04
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 34.0
+            team runs: 111.0
+        - 15.05
+            batter: Phoebe Litchfield
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 35.0
+            team runs: 112.0
+        - 15.06
+            batter: Alex Blackwell
+            bowler: Amelia Kerr
+            runs scored:             batter runs: 22.0
+            team runs: 116.0
+        - 16.01
+            batter: Phoebe Litchfield
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 36.0
+            team runs: 117.0
+        - 16.02
+            batter: Alex Blackwell
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 25.0
+            team runs: 120.0
+        - 16.03
+            batter: Phoebe Litchfield
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 37.0
+            team runs: 121.0
+        - 16.04
+            batter: Alex Blackwell
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 26.0
+            team runs: 122.0
+        - 16.05
+            batter: Phoebe Litchfield
+            bowler: Jess Jonassen
+            runs scored:             batter runs: 41.0
+            team runs: 126.0
