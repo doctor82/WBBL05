@@ -1,0 +1,1408 @@
+info: 
+  city: Sydney
+  gender: female 
+  match_type: T20 
+  outcome: 
+    by: 3 runs
+    winner: Thunder
+  teams: 
+    - Sydney Thunder Women
+    - Melbourne Renegades Women
+  toss: Melbourne Renegades Women , elected to field first
+  umpires: 
+    - Tim Donahoo
+    - Andrew Hamilton
+  venue: Blacktown International Sportspark, Sydney
+innings:
+ - first innings:
+      team: Sydney Thunder Women
+      deliveries: 
+        - 0.01
+            batter: Rachel Priest
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 0.0
+        - 0.02
+            batter: Rachel Priest
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 0.0
+        - 0.03
+            batter: Rachel Priest
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 0.0
+        - 0.04
+            batter: Rachel Priest
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 0.0
+        - 0.05
+            batter: Rachel Priest
+            bowler: Lea Tahuhu
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 1.0
+        - 0.06
+            batter: Naomi Stalenberg
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 1.0
+        - 1.01
+            batter: Rachel Priest
+            bowler: Sophie Molineux
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 1.0
+        - 1.02
+            batter: Rachel Priest
+            bowler: Sophie Molineux
+            runs scored: 6.0
+            batter runs: 7.0
+            team runs: 7.0
+        - 1.03
+            batter: Rachel Priest
+            bowler: Sophie Molineux
+            runs scored: 4.0
+            batter runs: 11.0
+            team runs: 11.0
+        - 1.04
+            batter: Rachel Priest
+            bowler: Sophie Molineux
+            runs scored: 4.0
+            batter runs: 15.0
+            team runs: 15.0
+        - 1.05
+            batter: Rachel Priest
+            bowler: Sophie Molineux
+            runs scored: 0.0
+            batter runs: 15.0
+            team runs: 15.0
+        - 1.06
+            batter: Rachel Priest
+            bowler: Sophie Molineux
+            runs scored: 0.0
+            batter runs: 15.0
+            team runs: 15.0
+            wicket:
+              kind: caught
+              player_out: Rachel Priest
+        - 2.01
+            batter: Rachael Haynes
+            bowler: Lea Tahuhu
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 16.0
+        - 2.02
+            batter: Naomi Stalenberg
+            bowler: Lea Tahuhu
+            runs scored: 4.0
+            batter runs: 0.0
+            team runs: 20.0
+        - 2.03
+            batter: Naomi Stalenberg
+            bowler: Lea Tahuhu
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 21.0
+        - 2.04
+            batter: Rachael Haynes
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 21.0
+        - 2.05
+            batter: Rachael Haynes
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 21.0
+        - 2.06
+            batter: Rachael Haynes
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 21.0
+        - 3.01
+            batter: Naomi Stalenberg
+            bowler: Maitlan Brown
+            runs scored: 4.0
+            batter runs: 5.0
+            team runs: 25.0
+        - 3.02
+            batter: Naomi Stalenberg
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 5.0
+            team runs: 25.0
+        - 3.03
+            batter: Naomi Stalenberg
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 5.0
+            team runs: 25.0
+        - 3.04
+            batter: Naomi Stalenberg
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 26.0
+        - 3.05
+            batter: Rachael Haynes
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 26.0
+        - 3.06
+            batter: Rachael Haynes
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 27.0
+        - 3.07
+            batter: Rachael Haynes
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 27.0
+        - 4.01
+            batter: Naomi Stalenberg
+            bowler: Lea Tahuhu
+            runs scored: 4.0
+            batter runs: 10.0
+            team runs: 31.0
+        - 4.02
+            batter: Naomi Stalenberg
+            bowler: Lea Tahuhu
+            runs scored: 1.0
+            batter runs: 11.0
+            team runs: 32.0
+        - 4.03
+            batter: Rachael Haynes
+            bowler: Lea Tahuhu
+            runs scored: 4.0
+            batter runs: 5.0
+            team runs: 36.0
+        - 4.04
+            batter: Rachael Haynes
+            bowler: Lea Tahuhu
+            runs scored: 4.0
+            batter runs: 9.0
+            team runs: 40.0
+        - 4.05
+            batter: Rachael Haynes
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 9.0
+            team runs: 40.0
+        - 4.06
+            batter: Rachael Haynes
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 9.0
+            team runs: 40.0
+        - 5.01
+            batter: Naomi Stalenberg
+            bowler: Molly Strano
+            runs scored: 4.0
+            batter runs: 15.0
+            team runs: 44.0
+        - 5.02
+            batter: Naomi Stalenberg
+            bowler: Molly Strano
+            runs scored: 2.0
+            batter runs: 17.0
+            team runs: 46.0
+        - 5.03
+            batter: Naomi Stalenberg
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 18.0
+            team runs: 47.0
+        - 5.04
+            batter: Rachael Haynes
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 9.0
+            team runs: 47.0
+        - 5.05
+            batter: Rachael Haynes
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 9.0
+            team runs: 47.0
+        - 5.06
+            batter: Rachael Haynes
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 10.0
+            team runs: 48.0
+        - 6.01
+            batter: Rachael Haynes
+            bowler: Georgia Wareham
+            runs scored: 1.0
+            batter runs: 11.0
+            team runs: 49.0
+        - 6.02
+            batter: Naomi Stalenberg
+            bowler: Georgia Wareham
+            runs scored: 0.0
+            batter runs: 18.0
+            team runs: 49.0
+        - 6.03
+            batter: Naomi Stalenberg
+            bowler: Georgia Wareham
+            runs scored: 1.0
+            batter runs: 19.0
+            team runs: 50.0
+        - 6.04
+            batter: Rachael Haynes
+            bowler: Georgia Wareham
+            runs scored: 1.0
+            batter runs: 12.0
+            team runs: 51.0
+        - 6.05
+            batter: Naomi Stalenberg
+            bowler: Georgia Wareham
+            runs scored: 1.0
+            batter runs: 20.0
+            team runs: 52.0
+        - 6.06
+            batter: Rachael Haynes
+            bowler: Georgia Wareham
+            runs scored: 4.0
+            batter runs: 16.0
+            team runs: 56.0
+        - 7.01
+            batter: Naomi Stalenberg
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 20.0
+            team runs: 56.0
+        - 7.02
+            batter: Naomi Stalenberg
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 20.0
+            team runs: 56.0
+        - 7.03
+            batter: Naomi Stalenberg
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 20.0
+            team runs: 56.0
+        - 7.04
+            batter: Naomi Stalenberg
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 21.0
+            team runs: 57.0
+        - 7.05
+            batter: Rachael Haynes
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 17.0
+            team runs: 58.0
+        - 7.06
+            batter: Naomi Stalenberg
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 21.0
+            team runs: 58.0
+            wicket:
+              kind: caught
+              player_out: Naomi Stalenberg
+        - 8.01
+            batter: Rachael Haynes
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 18.0
+            team runs: 59.0
+        - 8.02
+            batter: Alex Blackwell
+            bowler: Danni Wyatt
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 59.0
+        - 8.03
+            batter: Alex Blackwell
+            bowler: Danni Wyatt
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 59.0
+        - 8.04
+            batter: Alex Blackwell
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 60.0
+        - 8.05
+            batter: Rachael Haynes
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 19.0
+            team runs: 61.0
+        - 8.06
+            batter: Alex Blackwell
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 62.0
+        - 9.01
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 62.0
+        - 9.02
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 3.0
+            team runs: 63.0
+        - 9.03
+            batter: Rachael Haynes
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 20.0
+            team runs: 64.0
+        - 9.04
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 3.0
+            team runs: 64.0
+        - 9.05
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 3.0
+            team runs: 64.0
+        - 9.06
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 65.0
+        - 10.01
+            batter: Alex Blackwell
+            bowler: Georgia Wareham
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 66.0
+        - 10.02
+            batter: Rachael Haynes
+            bowler: Georgia Wareham
+            runs scored: 1.0
+            batter runs: 21.0
+            team runs: 67.0
+        - 10.03
+            batter: Alex Blackwell
+            bowler: Georgia Wareham
+            runs scored: 4.0
+            batter runs: 9.0
+            team runs: 71.0
+        - 10.04
+            batter: Alex Blackwell
+            bowler: Georgia Wareham
+            runs scored: 0.0
+            batter runs: 9.0
+            team runs: 71.0
+        - 10.05
+            batter: Alex Blackwell
+            bowler: Georgia Wareham
+            runs scored: 1.0
+            batter runs: 10.0
+            team runs: 72.0
+        - 10.06
+            batter: Rachael Haynes
+            bowler: Georgia Wareham
+            runs scored: 2.0
+            batter runs: 23.0
+            team runs: 74.0
+        - 11.01
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 4.0
+            batter runs: 14.0
+            team runs: 78.0
+        - 11.02
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 15.0
+            team runs: 79.0
+        - 11.03
+            batter: Rachael Haynes
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 24.0
+            team runs: 80.0
+        - 11.04
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 15.0
+            team runs: 80.0
+        - 11.05
+            batter: Alex Blackwell
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 16.0
+            team runs: 81.0
+        - 11.06
+            batter: Rachael Haynes
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 24.0
+            team runs: 81.0
+        - 12.01
+            batter: Alex Blackwell
+            bowler: Sophie Molineux
+            runs scored: 0.0
+            batter runs: 16.0
+            team runs: 81.0
+        - 12.02
+            batter: Alex Blackwell
+            bowler: Sophie Molineux
+            runs scored: 0.0
+            batter runs: 16.0
+            team runs: 81.0
+        - 12.03
+            batter: Alex Blackwell
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 17.0
+            team runs: 82.0
+        - 12.04
+            batter: Rachael Haynes
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 25.0
+            team runs: 83.0
+        - 12.05
+            batter: Alex Blackwell
+            bowler: Sophie Molineux
+            runs scored: 0.0
+            batter runs: 17.0
+            team runs: 83.0
+        - 12.06
+            batter: Alex Blackwell
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 18.0
+            team runs: 84.0
+        - 13.01
+            batter: Alex Blackwell
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 19.0
+            team runs: 85.0
+        - 13.02
+            batter: Rachael Haynes
+            bowler: Molly Strano
+            runs scored: 2.0
+            batter runs: 27.0
+            team runs: 87.0
+        - 13.03
+            batter: Rachael Haynes
+            bowler: Molly Strano
+            runs scored: 4.0
+            batter runs: 31.0
+            team runs: 91.0
+        - 13.04
+            batter: Rachael Haynes
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 32.0
+            team runs: 92.0
+        - 13.05
+            batter: Alex Blackwell
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 19.0
+            team runs: 92.0
+        - 13.06
+            batter: Alex Blackwell
+            bowler: Molly Strano
+            runs scored: 2.0
+            batter runs: 21.0
+            team runs: 94.0
+        - 14.01
+            batter: Rachael Haynes
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 33.0
+            team runs: 95.0
+        - 14.02
+            batter: Alex Blackwell
+            bowler: Sophie Molineux
+            runs scored: 0.0
+            batter runs: 21.0
+            team runs: 95.0
+            wicket:
+              kind: bowled
+              player_out: Alex Blackwell
+        - 14.03
+            batter: Phoebe Litchfield
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 96.0
+        - 14.04
+            batter: Rachael Haynes
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 34.0
+            team runs: 97.0
+        - 14.05
+            batter: Phoebe Litchfield
+            bowler: Sophie Molineux
+            runs scored: 2.0
+            batter runs: 3.0
+            team runs: 99.0
+        - 14.06
+            batter: Phoebe Litchfield
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 100.0
+        - 15.01
+            batter: Phoebe Litchfield
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 101.0
+        - 15.02
+            batter: Rachael Haynes
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 35.0
+            team runs: 102.0
+        - 15.03
+            batter: Phoebe Litchfield
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 103.0
+        - 15.04
+            batter: Rachael Haynes
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 36.0
+            team runs: 104.0
+        - 15.05
+            batter: Phoebe Litchfield
+            bowler: Danni Wyatt
+            runs scored: 1.0
+            batter runs: 7.0
+            team runs: 105.0
+        - 15.06
+            batter: Rachael Haynes
+            bowler: Danni Wyatt
+            runs scored: 0.0
+            batter runs: 36.0
+            team runs: 105.0
+            wicket:
+              kind: caught
+              player_out: Rachael Haynes
+        - 16.01
+            batter: Phoebe Litchfield
+            bowler: Lea Tahuhu
+            runs scored: 4.0
+            batter runs: 11.0
+            team runs: 109.0
+        - 16.02
+            batter: Phoebe Litchfield
+            bowler: Lea Tahuhu
+            runs scored: 1.0
+            batter runs: 12.0
+            team runs: 110.0
+        - 16.03
+            batter: Nida Dar
+            bowler: Lea Tahuhu
+            runs scored: 2.0
+            batter runs: 2.0
+            team runs: 112.0
+        - 16.04
+            batter: Nida Dar
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 112.0
+        - 16.05
+            batter: Nida Dar
+            bowler: Lea Tahuhu
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 112.0
+        - 16.06
+            batter: Nida Dar
+            bowler: Lea Tahuhu
+            runs scored: 1.0
+            batter runs: 3.0
+            team runs: 113.0
+        - 17.01
+            batter: Nida Dar
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 3.0
+            team runs: 113.0
+        - 17.02
+            batter: Nida Dar
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 114.0
+        - 17.03
+            batter: Phoebe Litchfield
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 13.0
+            team runs: 115.0
+        - 17.04
+            batter: Nida Dar
+            bowler: Molly Strano
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 115.0
+        - 17.05
+            batter: Nida Dar
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 116.0
+        - 17.06
+            batter: Phoebe Litchfield
+            bowler: Molly Strano
+            runs scored: 1.0
+            batter runs: 14.0
+            team runs: 117.0
+        - 18.01
+            batter: Phoebe Litchfield
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 15.0
+            team runs: 118.0
+        - 18.02
+            batter: Nida Dar
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 119.0
+        - 18.03
+            batter: Phoebe Litchfield
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 16.0
+            team runs: 120.0
+        - 18.04
+            batter: Nida Dar
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 7.0
+            team runs: 121.0
+        - 18.05
+            batter: Phoebe Litchfield
+            bowler: Sophie Molineux
+            runs scored: 0.0
+            batter runs: 16.0
+            team runs: 125.0
+            wicket:
+              kind: bowled
+              player_out: Phoebe Litchfield
+        - 18.06
+            batter: Hannah Darlington
+            bowler: Sophie Molineux
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 126.0
+        - 19.01
+            batter: Hannah Darlington
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 127.0
+        - 19.03
+            batter: Hannah Darlington
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 127.0
+            wicket:
+              kind: bowled
+              player_out: Hannah Darlington
+        - 19.04
+            batter: Rene Farrell
+            bowler: Maitlan Brown
+            runs scored: 4.0
+            batter runs: 4.0
+            team runs: 131.0
+        - 19.05
+            batter: Rene Farrell
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 131.0
+            wicket:
+              kind: bowled
+              player_out: Rene Farrell
+        - 19.06
+            batter: Lisa Griffith
+            bowler: Maitlan Brown
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 132.0
+        - 19.07
+            batter: Nida Dar
+            bowler: Maitlan Brown
+            runs scored: 0.0
+            batter runs: 7.0
+            team runs: 132.0
+            wicket:
+              kind: caught
+              player_out: Nida Dar
+ - second innings:
+      team: Melbourne Renegades Women
+      deliveries: 
+        - 0.01
+            batter: Sophie Molineux
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 1.0
+        - 0.02
+            batter: Danni Wyatt
+            bowler: Rene Farrell
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 1.0
+        - 0.03
+            batter: Danni Wyatt
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 2.0
+        - 0.04
+            batter: Sophie Molineux
+            bowler: Rene Farrell
+            runs scored: 2.0
+            batter runs: 3.0
+            team runs: 4.0
+        - 0.05
+            batter: Sophie Molineux
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 5.0
+        - 0.06
+            batter: Danni Wyatt
+            bowler: Rene Farrell
+            runs scored: 4.0
+            batter runs: 1.0
+            team runs: 9.0
+        - 1.01
+            batter: Sophie Molineux
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 10.0
+        - 1.02
+            batter: Sophie Molineux
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 11.0
+        - 1.03
+            batter: Sophie Molineux
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 11.0
+        - 1.05
+            batter: Sophie Molineux
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 7.0
+            wicket:
+              kind: bowled
+              player_out: Sophie Molineux
+        - 1.06
+            batter: Tammy Beaumont
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 7.0
+        - 1.07
+            batter: Tammy Beaumont
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 7.0
+        - 1.08
+            batter: Tammy Beaumont
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 8.0
+        - 2.01
+            batter: Tammy Beaumont
+            bowler: Samantha Bates
+            runs scored: 4.0
+            batter runs: 5.0
+            team runs: 12.0
+        - 2.02
+            batter: Tammy Beaumont
+            bowler: Samantha Bates
+            runs scored: 0.0
+            batter runs: 5.0
+            team runs: 12.0
+            wicket:
+              kind: leg before wicket
+              player_out: Tammy Beaumont
+        - 2.03
+            batter: Claire Koski
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 13.0
+        - 2.04
+            batter: Danni Wyatt
+            bowler: Samantha Bates
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 13.0
+        - 2.05
+            batter: Danni Wyatt
+            bowler: Samantha Bates
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 13.0
+        - 2.06
+            batter: Danni Wyatt
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 14.0
+        - 3.01
+            batter: Danni Wyatt
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 3.0
+            team runs: 15.0
+        - 3.02
+            batter: Claire Koski
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 15.0
+        - 3.03
+            batter: Claire Koski
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 16.0
+        - 3.04
+            batter: Danni Wyatt
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 17.0
+        - 3.05
+            batter: Claire Koski
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 21.0
+            wicket:
+              kind: leg before wicket
+              player_out: Claire Koski
+        - 3.06
+            batter: Jess Duffin
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 21.0
+        - 4.01
+            batter: Danni Wyatt
+            bowler: Rene Farrell
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 21.0
+        - 4.02
+            batter: Danni Wyatt
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 22.0
+        - 4.03
+            batter: Jess Duffin
+            bowler: Rene Farrell
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 22.0
+        - 4.04
+            batter: Jess Duffin
+            bowler: Rene Farrell
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 22.0
+        - 4.05
+            batter: Jess Duffin
+            bowler: Rene Farrell
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 22.0
+        - 4.06
+            batter: Jess Duffin
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 23.0
+        - 5.01
+            batter: Jess Duffin
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 24.0
+        - 5.02
+            batter: Danni Wyatt
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 5.0
+            team runs: 24.0
+        - 5.03
+            batter: Danni Wyatt
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 25.0
+        - 5.04
+            batter: Jess Duffin
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 25.0
+        - 5.05
+            batter: Jess Duffin
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 25.0
+        - 5.06
+            batter: Jess Duffin
+            bowler: Shabnim Ismail
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 25.0
+        - 6.01
+            batter: Danni Wyatt
+            bowler: Hannah Darlington
+            runs scored: 0.0
+            batter runs: 6.0
+            team runs: 25.0
+        - 6.02
+            batter: Danni Wyatt
+            bowler: Hannah Darlington
+            runs scored: 0.0
+            batter runs: 6.0
+            team runs: 25.0
+        - 6.03
+            batter: Danni Wyatt
+            bowler: Hannah Darlington
+            runs scored: 0.0
+            batter runs: 6.0
+            team runs: 25.0
+            wicket:
+              kind: caught
+              player_out: Danni Wyatt
+        - 6.04
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 25.0
+        - 6.05
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 25.0
+        - 6.06
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 3.0
+            team runs: 26.0
+        - 7.01
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 27.0
+        - 7.02
+            batter: Courtney Webb
+            bowler: Nida Dar
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 27.0
+        - 7.03
+            batter: Courtney Webb
+            bowler: Nida Dar
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 28.0
+        - 7.04
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 28.0
+        - 7.05
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 29.0
+        - 7.06
+            batter: Courtney Webb
+            bowler: Nida Dar
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 30.0
+        - 8.01
+            batter: Courtney Webb
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 3.0
+            team runs: 31.0
+        - 8.02
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 32.0
+        - 8.03
+            batter: Courtney Webb
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 33.0
+        - 8.04
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 4.0
+            batter runs: 10.0
+            team runs: 37.0
+        - 8.05
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 0.0
+            batter runs: 10.0
+            team runs: 37.0
+        - 8.06
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 6.0
+            batter runs: 16.0
+            team runs: 43.0
+        - 9.01
+            batter: Courtney Webb
+            bowler: Nida Dar
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 43.0
+        - 9.02
+            batter: Courtney Webb
+            bowler: Nida Dar
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 44.0
+        - 9.03
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 0.0
+            batter runs: 16.0
+            team runs: 44.0
+        - 9.04
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 4.0
+            batter runs: 20.0
+            team runs: 48.0
+        - 9.05
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 0.0
+            batter runs: 20.0
+            team runs: 48.0
+        - 9.06
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 1.0
+            batter runs: 21.0
+            team runs: 49.0
+        - 10.01
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 0.0
+            batter runs: 21.0
+            team runs: 49.0
+        - 10.02
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 22.0
+            team runs: 50.0
+        - 10.03
+            batter: Courtney Webb
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 51.0
+        - 10.04
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 23.0
+            team runs: 52.0
+        - 10.05
+            batter: Courtney Webb
+            bowler: Hannah Darlington
+            runs scored: 3.0
+            batter runs: 9.0
+            team runs: 55.0
+        - 10.06
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 24.0
+            team runs: 56.0
+        - 11.01
+            batter: Jess Duffin
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 25.0
+            team runs: 57.0
+        - 11.02
+            batter: Courtney Webb
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 10.0
+            team runs: 58.0
+        - 11.03
+            batter: Jess Duffin
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 26.0
+            team runs: 59.0
+        - 11.04
+            batter: Courtney Webb
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 11.0
+            team runs: 60.0
+        - 11.05
+            batter: Jess Duffin
+            bowler: Rene Farrell
+            runs scored: 0.0
+            batter runs: 26.0
+            team runs: 60.0
+        - 11.06
+            batter: Jess Duffin
+            bowler: Rene Farrell
+            runs scored: 1.0
+            batter runs: 27.0
+            team runs: 61.0
+        - 12.01
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 0.0
+            batter runs: 27.0
+            team runs: 61.0
+        - 12.02
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 28.0
+            team runs: 62.0
+        - 12.03
+            batter: Courtney Webb
+            bowler: Samantha Bates
+            runs scored: 0.0
+            batter runs: 11.0
+            team runs: 62.0
+        - 12.04
+            batter: Courtney Webb
+            bowler: Samantha Bates
+            runs scored: 0.0
+            batter runs: 11.0
+            team runs: 62.0
+        - 12.05
+            batter: Courtney Webb
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 12.0
+            team runs: 63.0
+        - 12.06
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 29.0
+            team runs: 64.0
+        - 13.01
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 6.0
+            batter runs: 35.0
+            team runs: 70.0
+        - 13.02
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 0.0
+            batter runs: 35.0
+            team runs: 70.0
+        - 13.03
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 0.0
+            batter runs: 35.0
+            team runs: 70.0
+        - 13.04
+            batter: Jess Duffin
+            bowler: Nida Dar
+            runs scored: 1.0
+            batter runs: 36.0
+            team runs: 71.0
+        - 13.05
+            batter: Courtney Webb
+            bowler: Nida Dar
+            runs scored: 0.0
+            batter runs: 12.0
+            team runs: 71.0
+        - 13.06
+            batter: Courtney Webb
+            bowler: Nida Dar
+            runs scored: 4.0
+            batter runs: 16.0
+            team runs: 75.0
+        - 14.01
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 37.0
+            team runs: 76.0
+        - 14.02
+            batter: Courtney Webb
+            bowler: Hannah Darlington
+            runs scored: 0.0
+            batter runs: 16.0
+            team runs: 76.0
+        - 14.03
+            batter: Courtney Webb
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 17.0
+            team runs: 77.0
+        - 14.04
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 38.0
+            team runs: 78.0
+        - 14.05
+            batter: Courtney Webb
+            bowler: Hannah Darlington
+            runs scored: 1.0
+            batter runs: 18.0
+            team runs: 79.0
+        - 14.06
+            batter: Jess Duffin
+            bowler: Hannah Darlington
+            runs scored: 2.0
+            batter runs: 40.0
+            team runs: 81.0
+        - 15.01
+            batter: Courtney Webb
+            bowler: Lisa Griffith
+            runs scored: 0.0
+            batter runs: 18.0
+            team runs: 81.0
+        - 15.02
+            batter: Courtney Webb
+            bowler: Lisa Griffith
+            runs scored: 2.0
+            batter runs: 20.0
+            team runs: 83.0
+        - 15.03
+            batter: Courtney Webb
+            bowler: Lisa Griffith
+            runs scored: 1.0
+            batter runs: 21.0
+            team runs: 84.0
+        - 15.04
+            batter: Jess Duffin
+            bowler: Lisa Griffith
+            runs scored: 2.0
+            batter runs: 42.0
+            team runs: 86.0
+        - 15.05
+            batter: Jess Duffin
+            bowler: Lisa Griffith
+            runs scored: 4.0
+            batter runs: 46.0
+            team runs: 90.0
+        - 15.06
+            batter: Jess Duffin
+            bowler: Lisa Griffith
+            runs scored: 2.0
+            batter runs: 48.0
+            team runs: 92.0
+        - 16.01
+            batter: Courtney Webb
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 22.0
+            team runs: 93.0
+        - 16.02
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 49.0
+            team runs: 94.0
+        - 16.03
+            batter: Courtney Webb
+            bowler: Samantha Bates
+            runs scored: 4.0
+            batter runs: 26.0
+            team runs: 98.0
+        - 16.04
+            batter: Courtney Webb
+            bowler: Samantha Bates
+            runs scored: 1.0
+            batter runs: 27.0
+            team runs: 99.0
+        - 16.05
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 4.0
+            batter runs: 53.0
+            team runs: 103.0
+        - 16.06
+            batter: Jess Duffin
+            bowler: Samantha Bates
+            runs scored: 4.0
+            batter runs: 57.0
+            team runs: 107.0
+        - 17.01
+            batter: Courtney Webb
+            bowler: Shabnim Ismail
+            runs scored: 1.0
+            batter runs: 28.0
+            team runs: 108.0

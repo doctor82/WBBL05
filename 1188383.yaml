@@ -48,7 +48,7 @@ innings:
             batter runs: 5.0
             team runs: 5.0
         - 0.06
-            batter: Danielle Wyatt
+            batter: Danni Wyatt
             bowler: Megan Schutt
             runs scored: 0.0
             batter runs: 0.0
@@ -60,13 +60,13 @@ innings:
             batter runs: 6.0
             team runs: 6.0
         - 1.02
-            batter: Danielle Wyatt
+            batter: Danni Wyatt
             bowler: Sophie Devine
             runs scored: 0.0
             batter runs: 0.0
             team runs: 6.0
         - 1.03
-            batter: Danielle Wyatt
+            batter: Danni Wyatt
             bowler: Sophie Devine
             runs scored: 1.0
             batter runs: 1.0
@@ -78,13 +78,13 @@ innings:
             batter runs: 7.0
             team runs: 8.0
         - 1.05
-            batter: Danielle Wyatt
+            batter: Danni Wyatt
             bowler: Sophie Devine
             runs scored: 0.0
             batter runs: 1.0
             team runs: 8.0
         - 1.06
-            batter: Danielle Wyatt
+            batter: Danni Wyatt
             bowler: Sophie Devine
             runs scored: 0.0
             batter runs: 1.0
@@ -96,20 +96,20 @@ innings:
             batter runs: 8.0
             team runs: 9.0
         - 2.02
-            batter: Danielle Wyatt
+            batter: Danni Wyatt
             bowler: Megan Schutt
             runs scored: 0.0
             batter runs: 1.0
             team runs: 9.0
         - 2.03
-            batter: Danielle Wyatt
+            batter: Danni Wyatt
             bowler: Megan Schutt
             runs scored: 0.0
             batter runs: 1.0
             team runs: 11.0
             wicket:
               kind: caught
-              player_out: Danielle Wyatt
+              player_out: Danni Wyatt
         - 2.04
             batter: Sophie Molineux
             bowler: Megan Schutt

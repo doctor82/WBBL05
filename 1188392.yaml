@@ -1,0 +1,1396 @@
+info: 
+  city: Brisbane
+  gender: female 
+  match_type: T20 
+  outcome: 
+    by: 9 wickets (with 10 balls remaining)
+    winner: Scorchers
+  teams: 
+    - Brisbane Heat Women
+    - Perth Scorchers Women
+  toss: Perth Scorchers Women , elected to field first
+  umpires: 
+    - Claire Polosak
+    - Dave Gilbert
+  venue: Allan Border Field, Brisbane
+innings:
+ - first innings:
+      team: Brisbane Heat Women
+      deliveries: 
+        - 0.01
+            batter: Grace Harris
+            bowler: Nicole Bolton
+            runs scored: 4.0
+            batter runs: 4.0
+            team runs: 4.0
+        - 0.02
+            batter: Grace Harris
+            bowler: Nicole Bolton
+            runs scored: 4.0
+            batter runs: 8.0
+            team runs: 8.0
+        - 0.03
+            batter: Grace Harris
+            bowler: Nicole Bolton
+            runs scored: 1.0
+            batter runs: 9.0
+            team runs: 9.0
+        - 0.04
+            batter: Beth Mooney
+            bowler: Nicole Bolton
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 10.0
+        - 0.05
+            batter: Grace Harris
+            bowler: Nicole Bolton
+            runs scored: 0.0
+            batter runs: 9.0
+            team runs: 10.0
+        - 0.06
+            batter: Grace Harris
+            bowler: Nicole Bolton
+            runs scored: 0.0
+            batter runs: 9.0
+            team runs: 10.0
+        - 1.01
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 4.0
+            batter runs: 5.0
+            team runs: 14.0
+        - 1.02
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 15.0
+        - 1.03
+            batter: Grace Harris
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 10.0
+            team runs: 16.0
+        - 1.04
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 7.0
+            team runs: 17.0
+        - 1.05
+            batter: Grace Harris
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 11.0
+            team runs: 18.0
+        - 1.06
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 7.0
+            team runs: 19.0
+        - 1.07
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 8.0
+            team runs: 20.0
+        - 2.01
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 0.0
+            batter runs: 8.0
+            team runs: 20.0
+        - 2.02
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 4.0
+            batter runs: 12.0
+            team runs: 24.0
+        - 2.03
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 0.0
+            batter runs: 12.0
+            team runs: 24.0
+        - 2.04
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 4.0
+            batter runs: 16.0
+            team runs: 28.0
+        - 2.05
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 17.0
+            team runs: 29.0
+        - 2.06
+            batter: Grace Harris
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 12.0
+            team runs: 30.0
+        - 3.01
+            batter: Grace Harris
+            bowler: Nicole Bolton
+            runs scored: 0.0
+            batter runs: 12.0
+            team runs: 30.0
+        - 3.02
+            batter: Grace Harris
+            bowler: Nicole Bolton
+            runs scored: 0.0
+            batter runs: 12.0
+            team runs: 30.0
+            wicket:
+              kind: caught
+              player_out: Grace Harris
+        - 3.03
+            batter: Beth Mooney
+            bowler: Nicole Bolton
+            runs scored: 1.0
+            batter runs: 18.0
+            team runs: 31.0
+        - 3.04
+            batter: Jess Jonassen
+            bowler: Nicole Bolton
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 31.0
+        - 3.05
+            batter: Jess Jonassen
+            bowler: Nicole Bolton
+            runs scored: 4.0
+            batter runs: 4.0
+            team runs: 35.0
+        - 3.06
+            batter: Jess Jonassen
+            bowler: Nicole Bolton
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 35.0
+        - 4.01
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 18.0
+            team runs: 35.0
+        - 4.02
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 18.0
+            team runs: 35.0
+        - 4.03
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 18.0
+            team runs: 35.0
+        - 4.04
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 19.0
+            team runs: 36.0
+        - 4.05
+            batter: Jess Jonassen
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 36.0
+            wicket:
+              kind: bowled
+              player_out: Jess Jonassen
+        - 4.06
+            batter: Maddy Green
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 36.0
+        - 5.01
+            batter: Beth Mooney
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 20.0
+            team runs: 37.0
+        - 5.02
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 37.0
+        - 5.03
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 37.0
+        - 5.04
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 37.0
+        - 5.05
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 38.0
+        - 5.06
+            batter: Beth Mooney
+            bowler: Heather Graham
+            runs scored: 2.0
+            batter runs: 22.0
+            team runs: 40.0
+        - 6.01
+            batter: Maddy Green
+            bowler: Piepa Cleary
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 40.0
+        - 6.02
+            batter: Maddy Green
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 41.0
+        - 6.03
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 23.0
+            team runs: 42.0
+        - 6.04
+            batter: Maddy Green
+            bowler: Piepa Cleary
+            runs scored: 0.0
+            batter runs: 2.0
+            team runs: 42.0
+        - 6.05
+            batter: Maddy Green
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 3.0
+            team runs: 43.0
+        - 6.06
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 24.0
+            team runs: 44.0
+        - 7.01
+            batter: Beth Mooney
+            bowler: Emma King
+            runs scored: 0.0
+            batter runs: 24.0
+            team runs: 44.0
+        - 7.02
+            batter: Beth Mooney
+            bowler: Emma King
+            runs scored: 4.0
+            batter runs: 28.0
+            team runs: 48.0
+        - 7.03
+            batter: Beth Mooney
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 29.0
+            team runs: 49.0
+        - 7.04
+            batter: Maddy Green
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 50.0
+        - 7.05
+            batter: Beth Mooney
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 30.0
+            team runs: 51.0
+        - 7.06
+            batter: Maddy Green
+            bowler: Emma King
+            runs scored: 0.0
+            batter runs: 4.0
+            team runs: 51.0
+        - 8.01
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 31.0
+            team runs: 52.0
+        - 8.02
+            batter: Maddy Green
+            bowler: Piepa Cleary
+            runs scored: 4.0
+            batter runs: 8.0
+            team runs: 56.0
+        - 8.03
+            batter: Maddy Green
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 9.0
+            team runs: 57.0
+        - 8.04
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 0.0
+            batter runs: 31.0
+            team runs: 57.0
+        - 8.05
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 4.0
+            batter runs: 35.0
+            team runs: 61.0
+        - 8.06
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 36.0
+            team runs: 62.0
+        - 9.01
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 37.0
+            team runs: 63.0
+        - 9.02
+            batter: Maddy Green
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 10.0
+            team runs: 64.0
+        - 9.03
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 0.0
+            batter runs: 37.0
+            team runs: 64.0
+        - 9.04
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 38.0
+            team runs: 65.0
+        - 9.05
+            batter: Maddy Green
+            bowler: Jemma Barsby
+            runs scored: 0.0
+            batter runs: 10.0
+            team runs: 65.0
+        - 9.06
+            batter: Maddy Green
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 11.0
+            team runs: 66.0
+        - 10.01
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 2.0
+            batter runs: 13.0
+            team runs: 68.0
+        - 10.02
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 0.0
+            batter runs: 13.0
+            team runs: 68.0
+        - 10.03
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 4.0
+            batter runs: 17.0
+            team runs: 72.0
+        - 10.04
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 18.0
+            team runs: 73.0
+        - 10.05
+            batter: Beth Mooney
+            bowler: Heather Graham
+            runs scored: 4.0
+            batter runs: 42.0
+            team runs: 77.0
+        - 10.06
+            batter: Beth Mooney
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 43.0
+            team runs: 78.0
+        - 11.01
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 4.0
+            batter runs: 47.0
+            team runs: 82.0
+        - 11.02
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 48.0
+            team runs: 83.0
+        - 11.03
+            batter: Maddy Green
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 19.0
+            team runs: 84.0
+        - 11.04
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 0.0
+            batter runs: 48.0
+            team runs: 84.0
+        - 11.05
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 49.0
+            team runs: 85.0
+        - 11.06
+            batter: Maddy Green
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 20.0
+            team runs: 86.0
+        - 12.01
+            batter: Maddy Green
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 20.0
+            team runs: 86.0
+        - 12.02
+            batter: Maddy Green
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 20.0
+            team runs: 86.0
+        - 12.03
+            batter: Maddy Green
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 21.0
+            team runs: 87.0
+        - 12.04
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 50.0
+            team runs: 88.0
+        - 12.05
+            batter: Maddy Green
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 21.0
+            team runs: 88.0
+        - 12.06
+            batter: Maddy Green
+            bowler: Kim Garth
+            runs scored: 4.0
+            batter runs: 25.0
+            team runs: 92.0
+        - 13.01
+            batter: Beth Mooney
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 51.0
+            team runs: 93.0
+        - 13.02
+            batter: Maddy Green
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 26.0
+            team runs: 94.0
+        - 13.03
+            batter: Beth Mooney
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 52.0
+            team runs: 95.0
+        - 13.04
+            batter: Maddy Green
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 27.0
+            team runs: 96.0
+        - 13.05
+            batter: Beth Mooney
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 53.0
+            team runs: 97.0
+        - 13.06
+            batter: Maddy Green
+            bowler: Emma King
+            runs scored: 1.0
+            batter runs: 28.0
+            team runs: 98.0
+        - 14.01
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 4.0
+            batter runs: 32.0
+            team runs: 102.0
+        - 14.02
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 33.0
+            team runs: 103.0
+        - 14.03
+            batter: Beth Mooney
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 54.0
+            team runs: 104.0
+        - 14.04
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 34.0
+            team runs: 105.0
+        - 14.05
+            batter: Beth Mooney
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 55.0
+            team runs: 106.0
+        - 14.06
+            batter: Maddy Green
+            bowler: Heather Graham
+            runs scored: 0.0
+            batter runs: 34.0
+            team runs: 106.0
+            wicket:
+              kind: caught
+              player_out: Maddy Green
+        - 15.01
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 0.0
+            batter runs: 55.0
+            team runs: 106.0
+        - 15.02
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 56.0
+            team runs: 107.0
+        - 15.03
+            batter: Laura Harris
+            bowler: Jemma Barsby
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 107.0
+            wicket:
+              kind: caught
+              player_out: Laura Harris
+        - 15.04
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 57.0
+            team runs: 108.0
+        - 15.05
+            batter: Sammy-Jo Johnson
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 109.0
+        - 15.06
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 0.0
+            batter runs: 57.0
+            team runs: 109.0
+        - 16.01
+            batter: Sammy-Jo Johnson
+            bowler: Piepa Cleary
+            runs scored: 4.0
+            batter runs: 5.0
+            team runs: 113.0
+        - 16.02
+            batter: Sammy-Jo Johnson
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 114.0
+        - 16.03
+            batter: Sammy-Jo Johnson
+            bowler: Piepa Cleary
+            runs scored: 0.0
+            batter runs: 5.0
+            team runs: 114.0
+            wicket:
+              kind: bowled
+              player_out: Sammy-Jo Johnson
+        - 16.04
+            batter: Amelia Kerr
+            bowler: Piepa Cleary
+            runs scored: 4.0
+            batter runs: 4.0
+            team runs: 118.0
+        - 16.05
+            batter: Amelia Kerr
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 119.0
+        - 16.06
+            batter: Beth Mooney
+            bowler: Piepa Cleary
+            runs scored: 1.0
+            batter runs: 57.0
+            team runs: 120.0
+        - 16.07
+            batter: Amelia Kerr
+            bowler: Piepa Cleary
+            runs scored: 0.0
+            batter runs: 5.0
+            team runs: 120.0
+        - 17.01
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 58.0
+            team runs: 121.0
+        - 17.02
+            batter: Amelia Kerr
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 122.0
+        - 17.03
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 0.0
+            batter runs: 58.0
+            team runs: 122.0
+        - 17.04
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 59.0
+            team runs: 123.0
+        - 17.05
+            batter: Amelia Kerr
+            bowler: Jemma Barsby
+            runs scored: 0.0
+            batter runs: 6.0
+            team runs: 123.0
+            wicket:
+              kind: caught
+              player_out: Amelia Kerr
+        - 17.06
+            batter: Beth Mooney
+            bowler: Jemma Barsby
+            runs scored: 1.0
+            batter runs: 60.0
+            team runs: 124.0
+        - 18.01
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 4.0
+            batter runs: 64.0
+            team runs: 128.0
+        - 18.02
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 65.0
+            team runs: 129.0
+        - 18.03
+            batter: Delissa Kimmince
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 129.0
+        - 18.04
+            batter: Delissa Kimmince
+            bowler: Kim Garth
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 130.0
+        - 18.05
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 2.0
+            batter runs: 67.0
+            team runs: 132.0
+        - 18.06
+            batter: Beth Mooney
+            bowler: Kim Garth
+            runs scored: 0.0
+            batter runs: 67.0
+            team runs: 132.0
+            wicket:
+              kind: caught
+              player_out: Beth Mooney
+        - 19.01
+            batter: Kirby Short
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 133.0
+        - 19.02
+            batter: Delissa Kimmince
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 134.0
+        - 19.03
+            batter: Kirby Short
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 135.0
+        - 19.04
+            batter: Delissa Kimmince
+            bowler: Heather Graham
+            runs scored: 4.0
+            batter runs: 6.0
+            team runs: 139.0
+        - 19.05
+            batter: Delissa Kimmince
+            bowler: Heather Graham
+            runs scored: 6.0
+            batter runs: 12.0
+            team runs: 145.0
+        - 19.06
+            batter: Delissa Kimmince
+            bowler: Heather Graham
+            runs scored: 1.0
+            batter runs: 12.0
+            team runs: 146.0
+ - second innings:
+      team: Perth Scorchers Women
+      deliveries: 
+        - 0.01
+            batter: Amy Jones
+            bowler: Jess Jonassen
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 0.0
+        - 0.02
+            batter: Amy Jones
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 1.0
+        - 0.03
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 1.0
+        - 0.04
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 0.0
+            team runs: 2.0
+        - 0.05
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 2.0
+        - 0.06
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 0.0
+            batter runs: 0.0
+            team runs: 2.0
+        - 0.07
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 3.0
+        - 1.01
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 1.0
+            batter runs: 1.0
+            team runs: 4.0
+        - 1.02
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 4.0
+        - 1.03
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 1.0
+            batter runs: 2.0
+            team runs: 5.0
+        - 1.04
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 0.0
+            batter runs: 1.0
+            team runs: 5.0
+        - 1.05
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 2.0
+            batter runs: 3.0
+            team runs: 7.0
+        - 1.06
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 1.0
+            batter runs: 4.0
+            team runs: 8.0
+        - 2.01
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 9.0
+        - 2.02
+            batter: Amy Jones
+            bowler: Delissa Kimmince
+            runs scored: 2.0
+            batter runs: 4.0
+            team runs: 11.0
+        - 2.03
+            batter: Amy Jones
+            bowler: Delissa Kimmince
+            runs scored: 1.0
+            batter runs: 5.0
+            team runs: 12.0
+        - 2.04
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 4.0
+            batter runs: 9.0
+            team runs: 16.0
+        - 2.05
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 0.0
+            batter runs: 9.0
+            team runs: 16.0
+        - 2.06
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 4.0
+            batter runs: 13.0
+            team runs: 20.0
+        - 3.01
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 6.0
+            team runs: 21.0
+        - 3.02
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 13.0
+            team runs: 22.0
+        - 3.03
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 0.0
+            batter runs: 13.0
+            team runs: 22.0
+        - 3.04
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 14.0
+            team runs: 23.0
+        - 3.05
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 7.0
+            team runs: 24.0
+        - 3.06
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 0.0
+            batter runs: 14.0
+            team runs: 24.0
+        - 3.07
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 15.0
+            team runs: 25.0
+        - 4.01
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 16.0
+            team runs: 26.0
+        - 4.02
+            batter: Amy Jones
+            bowler: Jess Jonassen
+            runs scored: 0.0
+            batter runs: 7.0
+            team runs: 26.0
+        - 4.03
+            batter: Amy Jones
+            bowler: Jess Jonassen
+            runs scored: 0.0
+            batter runs: 7.0
+            team runs: 26.0
+        - 4.04
+            batter: Amy Jones
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 8.0
+            team runs: 27.0
+        - 4.05
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 0.0
+            batter runs: 16.0
+            team runs: 27.0
+        - 4.06
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 17.0
+            team runs: 28.0
+        - 5.01
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 0.0
+            batter runs: 17.0
+            team runs: 28.0
+        - 5.02
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 4.0
+            batter runs: 17.0
+            team runs: 32.0
+        - 5.03
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 1.0
+            batter runs: 18.0
+            team runs: 33.0
+        - 5.04
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 0.0
+            batter runs: 8.0
+            team runs: 33.0
+        - 5.05
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 4.0
+            batter runs: 12.0
+            team runs: 37.0
+        - 5.06
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 0.0
+            batter runs: 12.0
+            team runs: 37.0
+        - 6.01
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 0.0
+            batter runs: 18.0
+            team runs: 37.0
+        - 6.02
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 5.0
+            batter runs: 18.0
+            team runs: 42.0
+        - 6.03
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 2.0
+            batter runs: 20.0
+            team runs: 44.0
+        - 6.04
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 1.0
+            batter runs: 21.0
+            team runs: 45.0
+        - 6.05
+            batter: Amy Jones
+            bowler: Delissa Kimmince
+            runs scored: 0.0
+            batter runs: 12.0
+            team runs: 45.0
+        - 6.06
+            batter: Amy Jones
+            bowler: Delissa Kimmince
+            runs scored: 1.0
+            batter runs: 13.0
+            team runs: 46.0
+        - 6.07
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 1.0
+            batter runs: 22.0
+            team runs: 47.0
+        - 7.01
+            batter: Meg Lanning
+            bowler: Amelia Kerr
+            runs scored: 1.0
+            batter runs: 23.0
+            team runs: 48.0
+        - 7.02
+            batter: Amy Jones
+            bowler: Amelia Kerr
+            runs scored: 2.0
+            batter runs: 15.0
+            team runs: 50.0
+        - 7.03
+            batter: Amy Jones
+            bowler: Amelia Kerr
+            runs scored: 4.0
+            batter runs: 19.0
+            team runs: 54.0
+        - 7.04
+            batter: Amy Jones
+            bowler: Amelia Kerr
+            runs scored: 1.0
+            batter runs: 20.0
+            team runs: 55.0
+        - 7.05
+            batter: Meg Lanning
+            bowler: Amelia Kerr
+            runs scored: 0.0
+            batter runs: 23.0
+            team runs: 55.0
+        - 7.06
+            batter: Meg Lanning
+            bowler: Amelia Kerr
+            runs scored: 1.0
+            batter runs: 24.0
+            team runs: 56.0
+        - 8.01
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 1.0
+            batter runs: 24.0
+            team runs: 58.0
+        - 8.02
+            batter: Amy Jones
+            bowler: Georgia Prestwidge
+            runs scored: 1.0
+            batter runs: 21.0
+            team runs: 59.0
+        - 8.03
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 4.0
+            batter runs: 28.0
+            team runs: 63.0
+        - 8.04
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 1.0
+            batter runs: 29.0
+            team runs: 64.0
+        - 8.05
+            batter: Amy Jones
+            bowler: Georgia Prestwidge
+            runs scored: 0.0
+            batter runs: 21.0
+            team runs: 64.0
+        - 8.06
+            batter: Amy Jones
+            bowler: Georgia Prestwidge
+            runs scored: 1.0
+            batter runs: 22.0
+            team runs: 65.0
+        - 8.07
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 1.0
+            batter runs: 29.0
+            team runs: 66.0
+        - 8.08
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 1.0
+            batter runs: 29.0
+            team runs: 67.0
+        - 8.09
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 1.0
+            batter runs: 30.0
+            team runs: 68.0
+        - 9.01
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 30.0
+            team runs: 69.0
+        - 9.02
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 31.0
+            team runs: 70.0
+        - 9.03
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 23.0
+            team runs: 71.0
+        - 9.04
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 32.0
+            team runs: 72.0
+        - 9.05
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 2.0
+            batter runs: 25.0
+            team runs: 74.0
+        - 9.06
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 26.0
+            team runs: 75.0
+        - 9.07
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 0.0
+            batter runs: 32.0
+            team runs: 75.0
+        - 10.01
+            batter: Amy Jones
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 27.0
+            team runs: 76.0
+        - 10.02
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 33.0
+            team runs: 77.0
+        - 10.03
+            batter: Amy Jones
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 28.0
+            team runs: 78.0
+        - 10.04
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 4.0
+            batter runs: 37.0
+            team runs: 82.0
+        - 10.05
+            batter: Meg Lanning
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 38.0
+            team runs: 83.0
+        - 10.06
+            batter: Amy Jones
+            bowler: Jess Jonassen
+            runs scored: 1.0
+            batter runs: 29.0
+            team runs: 84.0
+        - 11.01
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 4.0
+            batter runs: 33.0
+            team runs: 88.0
+        - 11.02
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 4.0
+            batter runs: 37.0
+            team runs: 92.0
+        - 11.03
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 0.0
+            batter runs: 37.0
+            team runs: 92.0
+        - 11.04
+            batter: Amy Jones
+            bowler: Grace Harris
+            runs scored: 1.0
+            batter runs: 38.0
+            team runs: 93.0
+        - 11.05
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 4.0
+            batter runs: 42.0
+            team runs: 97.0
+        - 11.06
+            batter: Meg Lanning
+            bowler: Grace Harris
+            runs scored: 4.0
+            batter runs: 47.0
+            team runs: 101.0
+        - 12.01
+            batter: Amy Jones
+            bowler: Delissa Kimmince
+            runs scored: 4.0
+            batter runs: 42.0
+            team runs: 105.0
+        - 12.02
+            batter: Amy Jones
+            bowler: Delissa Kimmince
+            runs scored: 1.0
+            batter runs: 42.0
+            team runs: 106.0
+        - 12.03
+            batter: Amy Jones
+            bowler: Delissa Kimmince
+            runs scored: 4.0
+            batter runs: 46.0
+            team runs: 110.0
+        - 12.04
+            batter: Amy Jones
+            bowler: Delissa Kimmince
+            runs scored: 1.0
+            batter runs: 47.0
+            team runs: 111.0
+        - 12.05
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 0.0
+            batter runs: 47.0
+            team runs: 111.0
+        - 12.06
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 0.0
+            batter runs: 47.0
+            team runs: 111.0
+        - 12.07
+            batter: Meg Lanning
+            bowler: Delissa Kimmince
+            runs scored: 1.0
+            batter runs: 48.0
+            team runs: 112.0
+        - 13.01
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 1.0
+            batter runs: 49.0
+            team runs: 113.0
+        - 13.02
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 1.0
+            batter runs: 48.0
+            team runs: 114.0
+        - 13.03
+            batter: Meg Lanning
+            bowler: Sammy-Jo Johnson
+            runs scored: 3.0
+            batter runs: 52.0
+            team runs: 117.0
+        - 13.04
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 4.0
+            batter runs: 52.0
+            team runs: 121.0
+        - 13.05
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 0.0
+            batter runs: 52.0
+            team runs: 121.0
+        - 13.06
+            batter: Amy Jones
+            bowler: Sammy-Jo Johnson
+            runs scored: 0.0
+            batter runs: 52.0
+            team runs: 121.0
+        - 14.01
+            batter: Meg Lanning
+            bowler: Amelia Kerr
+            runs scored: 1.0
+            batter runs: 53.0
+            team runs: 122.0
+        - 14.02
+            batter: Amy Jones
+            bowler: Amelia Kerr
+            runs scored: 0.0
+            batter runs: 52.0
+            team runs: 122.0
+        - 14.03
+            batter: Amy Jones
+            bowler: Amelia Kerr
+            runs scored: 1.0
+            batter runs: 52.0
+            team runs: 123.0
+        - 14.04
+            batter: Amy Jones
+            bowler: Amelia Kerr
+            runs scored: 1.0
+            batter runs: 53.0
+            team runs: 124.0
+        - 14.05
+            batter: Meg Lanning
+            bowler: Amelia Kerr
+            runs scored: 1.0
+            batter runs: 54.0
+            team runs: 125.0
+        - 14.06
+            batter: Amy Jones
+            bowler: Amelia Kerr
+            runs scored: 2.0
+            batter runs: 55.0
+            team runs: 127.0
+        - 14.07
+            batter: Amy Jones
+            bowler: Amelia Kerr
+            runs scored: 0.0
+            batter runs: 55.0
+            team runs: 127.0
+        - 15.01
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 0.0
+            batter runs: 54.0
+            team runs: 127.0
+        - 15.02
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 2.0
+            batter runs: 56.0
+            team runs: 129.0
+        - 15.03
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 0.0
+            batter runs: 56.0
+            team runs: 129.0
+        - 15.04
+            batter: Meg Lanning
+            bowler: Georgia Prestwidge
+            runs scored: 0.0
+            batter runs: 56.0
+            team runs: 129.0
+            wicket:
+              kind: caught
+              player_out: Meg Lanning
